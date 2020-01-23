@@ -1,0 +1,5 @@
+npm install @material-ui/core
+npm install @material-ui/icons
+npm i @material-ui/pickers
+npm i @date-io/date-fns date-fns@next
+npm install --save clsx

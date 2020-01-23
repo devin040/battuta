@@ -1,0 +1,4632 @@
+[{
+	"city": "London",
+	"costs": [{
+		"item": "Meal, Inexpensive Restaurant",
+		"cost": "19.13",
+		"range": {
+			"low": "12.76",
+			"high": "25.51"
+		}
+	}, {
+		"item": "Meal for 2 People, Mid-range Restaurant, Three-course",
+		"cost": "70.16",
+		"range": {
+			"low": "51.02",
+			"high": "89.29"
+		}
+	}, {
+		"item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+		"cost": "7.65",
+		"range": {
+			"low": "6.38",
+			"high": "8.93"
+		}
+	}, {
+		"item": "Domestic Beer (1 pint draught)",
+		"cost": "6.38",
+		"range": {
+			"low": "5.10",
+			"high": "7.02"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "5.74",
+		"range": {
+			"low": "5.10",
+			"high": "6.38"
+		}
+	}, {
+		"item": "Cappuccino (regular)",
+		"cost": "3.56",
+		"range": {
+			"low": "3.06",
+			"high": "4.08"
+		}
+	}, {
+		"item": "Coke/Pepsi (12 oz small bottle)",
+		"cost": "1.88",
+		"range": {
+			"low": "1.15",
+			"high": "3.19"
+		}
+	}, {
+		"item": "Water (12 oz small bottle)",
+		"cost": "1.40",
+		"range": {
+			"low": "0.77",
+			"high": "2.55"
+		}
+	}, {
+		"item": "Milk (regular), (1 gallon)",
+		"cost": "4.63",
+		"range": {
+			"low": "3.62",
+			"high": "6.04"
+		}
+	}, {
+		"item": "Loaf of Fresh White Bread (1 lb)",
+		"cost": "1.29",
+		"range": {
+			"low": "0.72",
+			"high": "1.85"
+		}
+	}, {
+		"item": "Rice (white), (1 lb)",
+		"cost": "0.73",
+		"range": {
+			"low": "0.58",
+			"high": "1.16"
+		}
+	}, {
+		"item": "Eggs (regular) (12)",
+		"cost": "2.58",
+		"range": {
+			"low": "1.85",
+			"high": "3.83"
+		}
+	}, {
+		"item": "Local Cheese (1 lb)",
+		"cost": "3.90",
+		"range": {
+			"low": "2.31",
+			"high": "6.94"
+		}
+	}, {
+		"item": "Chicken Breasts (Boneless, Skinless), (1 lb)",
+		"cost": "3.42",
+		"range": {
+			"low": "2.60",
+			"high": "4.63"
+		}
+	}, {
+		"item": "Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+		"cost": "4.75",
+		"range": {
+			"low": "2.89",
+			"high": "8.68"
+		}
+	}, {
+		"item": "Apples (1 lb)",
+		"cost": "1.07",
+		"range": {
+			"low": "0.69",
+			"high": "1.45"
+		}
+	}, {
+		"item": "Banana (1 lb)",
+		"cost": "0.63",
+		"range": {
+			"low": "0.45",
+			"high": "1.16"
+		}
+	}, {
+		"item": "Oranges (1 lb)",
+		"cost": "1.18",
+		"range": {
+			"low": "0.87",
+			"high": "1.68"
+		}
+	}, {
+		"item": "Tomato (1 lb)",
+		"cost": "1.36",
+		"range": {
+			"low": "0.93",
+			"high": "2.31"
+		}
+	}, {
+		"item": "Potato (1 lb)",
+		"cost": "0.65",
+		"range": {
+			"low": "0.38",
+			"high": "1.16"
+		}
+	}, {
+		"item": "Onion (1 lb)",
+		"cost": "0.59",
+		"range": {
+			"low": "0.43",
+			"high": "0.93"
+		}
+	}, {
+		"item": "Lettuce (1 head)",
+		"cost": "0.97",
+		"range": {
+			"low": "0.64",
+			"high": "1.28"
+		}
+	}, {
+		"item": "Water (1.5 liter bottle)",
+		"cost": "1.09",
+		"range": {
+			"low": "0.64",
+			"high": "1.79"
+		}
+	}, {
+		"item": "Bottle of Wine (Mid-Range)",
+		"cost": "10.20",
+		"range": {
+			"low": "8.93",
+			"high": "12.76"
+		}
+	}, {
+		"item": "Domestic Beer (0.5 liter bottle)",
+		"cost": "2.23",
+		"range": {
+			"low": "1.54",
+			"high": "3.19"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "2.39",
+		"range": {
+			"low": "1.53",
+			"high": "3.19"
+		}
+	}, {
+		"item": "Cigarettes 20 Pack (Marlboro)",
+		"cost": "14.03",
+		"range": {
+			"low": "12.76",
+			"high": "15.31"
+		}
+	}, {
+		"item": "One-way Ticket (Local Transport)",
+		"cost": "3.19",
+		"range": {
+			"low": "1.91",
+			"high": "4.46"
+		}
+	}, {
+		"item": "Monthly Pass (Regular Price)",
+		"cost": "191.34",
+		"range": {
+			"low": "165.82",
+			"high": "249.57"
+		}
+	}, {
+		"item": "Taxi Start (Normal Tariff)",
+		"cost": "6.38",
+		"range": {
+			"low": "3.83",
+			"high": "6.38"
+		}
+	}, {
+		"item": "Taxi 1 mile (Normal Tariff)",
+		"cost": "6.27",
+		"range": {
+			"low": "4.11",
+			"high": "8.93"
+		}
+	}, {
+		"item": "Taxi 1hour Waiting (Normal Tariff)",
+		"cost": "63.78",
+		"range": {
+			"low": "38.27",
+			"high": "76.53"
+		}
+	}, {
+		"item": "Gasoline (1 gallon)",
+		"cost": "6.23",
+		"range": {
+			"low": "5.79",
+			"high": "6.57"
+		}
+	}, {
+		"item": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+		"cost": "25,511.44",
+		"range": {
+			"low": "22,960.30",
+			"high": "28,062.58"
+		}
+	}, {
+		"item": "Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)",
+		"cost": "27,376.27",
+		"range": {
+			"low": "22,960.30",
+			"high": "31,889.30"
+		}
+	}, {
+		"item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+		"cost": "214.61",
+		"range": {
+			"low": "114.80",
+			"high": "379.48"
+		}
+	}, {
+		"item": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+		"cost": "0.16",
+		"range": {
+			"low": "0.04",
+			"high": "0.38"
+		}
+	}, {
+		"item": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+		"cost": "39.73",
+		"range": {
+			"low": "29.34",
+			"high": "53.57"
+		}
+	}, {
+		"item": "Fitness Club, Monthly Fee for 1 Adult",
+		"cost": "48.70",
+		"range": {
+			"low": "31.89",
+			"high": "85.46"
+		}
+	}, {
+		"item": "Tennis Court Rent (1 Hour on Weekend)",
+		"cost": "14.98",
+		"range": {
+			"low": "8.93",
+			"high": "25.51"
+		}
+	}, {
+		"item": "Cinema, International Release, 1 Seat",
+		"cost": "15.31",
+		"range": {
+			"low": "12.76",
+			"high": "19.13"
+		}
+	}, {
+		"item": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+		"cost": "1,696.17",
+		"range": {
+			"low": "1,148.01",
+			"high": "2,296.03"
+		}
+	}, {
+		"item": "International Primary School, Yearly for 1 Child",
+		"cost": "23,004.55",
+		"range": {
+			"low": "16,582.44",
+			"high": "29,338.16"
+		}
+	}, {
+		"item": "1 Pair of Jeans (Levis 501 Or Similar)",
+		"cost": "86.48",
+		"range": {
+			"low": "57.40",
+			"high": "108.42"
+		}
+	}, {
+		"item": "1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+		"cost": "41.05",
+		"range": {
+			"low": "25.51",
+			"high": "57.40"
+		}
+	}, {
+		"item": "1 Pair of Nike Running Shoes (Mid-Range)",
+		"cost": "88.03",
+		"range": {
+			"low": "63.78",
+			"high": "114.80"
+		}
+	}, {
+		"item": "1 Pair of Men Leather Business Shoes",
+		"cost": "99.09",
+		"range": {
+			"low": "63.78",
+			"high": "153.07"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) in City Centre",
+		"cost": "2,148.52",
+		"range": {
+			"low": "1,530.69",
+			"high": "2,625.13"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) Outside of Centre",
+		"cost": "1,518.08",
+		"range": {
+			"low": "1,148.01",
+			"high": "1,913.36"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) in City Centre",
+		"cost": "4,054.63",
+		"range": {
+			"low": "2,933.82",
+			"high": "6,377.86"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) Outside of Centre",
+		"cost": "2,559.38",
+		"range": {
+			"low": "1,913.36",
+			"high": "3,316.49"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment in City Centre",
+		"cost": "1,559.77",
+		"range": {
+			"low": "1,090.23",
+			"high": "2,014.56"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment Outside of Centre",
+		"cost": "868.21",
+		"range": {
+			"low": "592.52",
+			"high": "1,185.04"
+		}
+	}, {
+		"item": "Average Monthly Net Salary (After Tax)",
+		"cost": "2,906.89",
+		"range": {
+			"low": ""
+		}
+	}, {
+		"item": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+		"cost": "3.17",
+		"range": {
+			"low": "2.87",
+			"high": "5.74"
+		}
+	}],
+	"topSights": [{
+		"name": "Westminster Abbey",
+		"location": "The West End",
+		"link": "https://lonelyplanet.com/england/london/attractions/westminster-abbey/a/poi-sig/370357/358914"
+	}, {
+		"name": "Natural History Museum",
+		"location": "Kensington & Hyde Park",
+		"link": "https://lonelyplanet.com/england/london/attractions/natural-history-museum/a/poi-sig/1216536/358914"
+	}, {
+		"name": "St Paul's Cathedral",
+		"location": "The City",
+		"link": "https://lonelyplanet.com/england/london/attractions/st-paul-s-cathedral/a/poi-sig/370377/358914"
+	}, {
+		"name": "Tate Modern",
+		"location": "The South Bank",
+		"link": "https://lonelyplanet.com/england/london/attractions/tate-modern/a/poi-sig/370395/358914"
+	}, {
+		"name": "Tower of London",
+		"location": "The City",
+		"link": "https://lonelyplanet.com/england/london/attractions/tower-of-london/a/poi-sig/370403/358914"
+	}, {
+		"name": "British Museum",
+		"location": "The West End",
+		"link": "https://lonelyplanet.com/england/london/attractions/british-museum/a/poi-sig/370373/358914"
+	}, {
+		"name": "National Gallery",
+		"location": "The West End",
+		"link": "https://lonelyplanet.com/england/london/attractions/national-gallery/a/poi-sig/370399/358914"
+	}, {
+		"name": "Shakespeare's Globe",
+		"location": "The South Bank",
+		"link": "https://lonelyplanet.com/england/london/attractions/shakespeare-s-globe/a/poi-sig/370405/358914"
+	}],
+	"currency": "USD"
+}, {
+	"city": "Paris",
+	"costs": [{
+		"item": "Meal, Inexpensive Restaurant",
+		"cost": "16.55",
+		"range": {
+			"low": "11.03",
+			"high": "22.06"
+		}
+	}, {
+		"item": "Meal for 2 People, Mid-range Restaurant, Three-course",
+		"cost": "55.15",
+		"range": {
+			"low": "43.02",
+			"high": "71.70"
+		}
+	}, {
+		"item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+		"cost": "9.38",
+		"range": {
+			"low": "7.72",
+			"high": "11.03"
+		}
+	}, {
+		"item": "Domestic Beer (1 pint draught)",
+		"cost": "7.17",
+		"range": {
+			"low": "5.52",
+			"high": "8.82"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "6.62",
+		"range": {
+			"low": "5.52",
+			"high": "8.82"
+		}
+	}, {
+		"item": "Cappuccino (regular)",
+		"cost": "3.70",
+		"range": {
+			"low": "2.21",
+			"high": "5.29"
+		}
+	}, {
+		"item": "Coke/Pepsi (12 oz small bottle)",
+		"cost": "3.40",
+		"range": {
+			"low": "2.21",
+			"high": "4.41"
+		}
+	}, {
+		"item": "Water (12 oz small bottle)",
+		"cost": "2.40",
+		"range": {
+			"low": "1.10",
+			"high": "3.31"
+		}
+	}, {
+		"item": "Milk (regular), (1 gallon)",
+		"cost": "5.02",
+		"range": {
+			"low": "3.76",
+			"high": "7.10"
+		}
+	}, {
+		"item": "Loaf of Fresh White Bread (1 lb)",
+		"cost": "1.47",
+		"range": {
+			"low": "1.00",
+			"high": "2.76"
+		}
+	}, {
+		"item": "Rice (white), (1 lb)",
+		"cost": "0.85",
+		"range": {
+			"low": "0.50",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Eggs (regular) (12)",
+		"cost": "3.57",
+		"range": {
+			"low": "2.43",
+			"high": "4.41"
+		}
+	}, {
+		"item": "Local Cheese (1 lb)",
+		"cost": "9.33",
+		"range": {
+			"low": "3.50",
+			"high": "15.01"
+		}
+	}, {
+		"item": "Chicken Breasts (Boneless, Skinless), (1 lb)",
+		"cost": "6.18",
+		"range": {
+			"low": "3.50",
+			"high": "10.01"
+		}
+	}, {
+		"item": "Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+		"cost": "8.91",
+		"range": {
+			"low": "4.00",
+			"high": "15.01"
+		}
+	}, {
+		"item": "Apples (1 lb)",
+		"cost": "1.52",
+		"range": {
+			"low": "1.00",
+			"high": "2.00"
+		}
+	}, {
+		"item": "Banana (1 lb)",
+		"cost": "1.06",
+		"range": {
+			"low": "0.50",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Oranges (1 lb)",
+		"cost": "1.32",
+		"range": {
+			"low": "0.90",
+			"high": "2.00"
+		}
+	}, {
+		"item": "Tomato (1 lb)",
+		"cost": "1.39",
+		"range": {
+			"low": "0.85",
+			"high": "2.00"
+		}
+	}, {
+		"item": "Potato (1 lb)",
+		"cost": "0.86",
+		"range": {
+			"low": "0.50",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Onion (1 lb)",
+		"cost": "1.11",
+		"range": {
+			"low": "0.50",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Lettuce (1 head)",
+		"cost": "1.39",
+		"range": {
+			"low": "1.10",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Water (1.5 liter bottle)",
+		"cost": "0.93",
+		"range": {
+			"low": "0.55",
+			"high": "1.65"
+		}
+	}, {
+		"item": "Bottle of Wine (Mid-Range)",
+		"cost": "8.82",
+		"range": {
+			"low": "5.52",
+			"high": "11.03"
+		}
+	}, {
+		"item": "Domestic Beer (0.5 liter bottle)",
+		"cost": "1.97",
+		"range": {
+			"low": "1.10",
+			"high": "3.31"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "2.52",
+		"range": {
+			"low": "1.65",
+			"high": "3.31"
+		}
+	}, {
+		"item": "Cigarettes 20 Pack (Marlboro)",
+		"cost": "9.54",
+		"range": {
+			"low": "8.82",
+			"high": "9.93"
+		}
+	}, {
+		"item": "One-way Ticket (Local Transport)",
+		"cost": "2.10",
+		"range": {
+			"low": "1.65",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Monthly Pass (Regular Price)",
+		"cost": "82.73",
+		"range": {
+			"low": "82.73",
+			"high": "82.95"
+		}
+	}, {
+		"item": "Taxi Start (Normal Tariff)",
+		"cost": "5.52",
+		"range": {
+			"low": "2.87",
+			"high": "6.62"
+		}
+	}, {
+		"item": "Taxi 1 mile (Normal Tariff)",
+		"cost": "2.40",
+		"range": {
+			"low": "1.86",
+			"high": "3.50"
+		}
+	}, {
+		"item": "Taxi 1hour Waiting (Normal Tariff)",
+		"cost": "42.48",
+		"range": {
+			"low": "38.61",
+			"high": "60.67"
+		}
+	}, {
+		"item": "Gasoline (1 gallon)",
+		"cost": "6.54",
+		"range": {
+			"low": "6.26",
+			"high": "7.35"
+		}
+	}, {
+		"item": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+		"cost": "23,715.29",
+		"range": {
+			"low": "19,854.66",
+			"high": "27,134.71"
+		}
+	}, {
+		"item": "Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)",
+		"cost": "26,013.29",
+		"range": {
+			"low": "19,854.66",
+			"high": "30,885.03"
+		}
+	}, {
+		"item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+		"cost": "186.47",
+		"range": {
+			"low": "110.30",
+			"high": "351.59"
+		}
+	}, {
+		"item": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+		"cost": "0.23",
+		"range": {
+			"low": "0.11",
+			"high": "0.55"
+		}
+	}, {
+		"item": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+		"cost": "31.35",
+		"range": {
+			"low": "22.06",
+			"high": "44.12"
+		}
+	}, {
+		"item": "Fitness Club, Monthly Fee for 1 Adult",
+		"cost": "43.67",
+		"range": {
+			"low": "33.04",
+			"high": "88.24"
+		}
+	}, {
+		"item": "Tennis Court Rent (1 Hour on Weekend)",
+		"cost": "20.74",
+		"range": {
+			"low": "9.93",
+			"high": "38.61"
+		}
+	}, {
+		"item": "Cinema, International Release, 1 Seat",
+		"cost": "12.13",
+		"range": {
+			"low": "9.93",
+			"high": "13.24"
+		}
+	}, {
+		"item": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+		"cost": "965.43",
+		"range": {
+			"low": "617.70",
+			"high": "1,985.47"
+		}
+	}, {
+		"item": "International Primary School, Yearly for 1 Child",
+		"cost": "13,500.83",
+		"range": {
+			"low": "6,618.22",
+			"high": "22,060.74"
+		}
+	}, {
+		"item": "1 Pair of Jeans (Levis 501 Or Similar)",
+		"cost": "96.22",
+		"range": {
+			"low": "66.18",
+			"high": "121.33"
+		}
+	}, {
+		"item": "1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+		"cost": "38.17",
+		"range": {
+			"low": "27.58",
+			"high": "55.15"
+		}
+	}, {
+		"item": "1 Pair of Nike Running Shoes (Mid-Range)",
+		"cost": "102.26",
+		"range": {
+			"low": "77.21",
+			"high": "132.36"
+		}
+	}, {
+		"item": "1 Pair of Men Leather Business Shoes",
+		"cost": "148.51",
+		"range": {
+			"low": "99.27",
+			"high": "220.61"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) in City Centre",
+		"cost": "1,346.75",
+		"range": {
+			"low": "992.73",
+			"high": "1,687.65"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) Outside of Centre",
+		"cost": "933.11",
+		"range": {
+			"low": "661.82",
+			"high": "1,323.64"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) in City Centre",
+		"cost": "2,841.38",
+		"range": {
+			"low": "1,985.47",
+			"high": "3,640.02"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) Outside of Centre",
+		"cost": "1,949.94",
+		"range": {
+			"low": "1,323.64",
+			"high": "2,757.59"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment in City Centre",
+		"cost": "1,131.05",
+		"range": {
+			"low": "1,024.75",
+			"high": "1,434.64"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment Outside of Centre",
+		"cost": "851.92",
+		"range": {
+			"low": "666.09",
+			"high": "1,024.75"
+		}
+	}, {
+		"item": "Average Monthly Net Salary (After Tax)",
+		"cost": "2,403.97",
+		"range": {
+			"low": ""
+		}
+	}, {
+		"item": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+		"cost": "1.67",
+		"range": {
+			"low": "1.43",
+			"high": "2.21"
+		}
+	}],
+	"topSights": [{
+		"name": "Musée du Louvre",
+		"location": "Louvre & Les Halles",
+		"link": "https://lonelyplanet.com/france/paris/attractions/musee-du-louvre/a/poi-sig/372123/359279"
+	}, {
+		"name": "Jardin du Luxembourg",
+		"location": "St-Germain & Les Invalides",
+		"link": "https://lonelyplanet.com/france/paris/attractions/jardin-du-luxembourg/a/poi-sig/372163/359279"
+	}, {
+		"name": "Centre Pompidou",
+		"location": "Louvre & Les Halles",
+		"link": "https://lonelyplanet.com/france/paris/attractions/centre-pompidou/a/poi-sig/372153/359279"
+	}, {
+		"name": "Musée Rodin",
+		"location": "St-Germain & Les Invalides",
+		"link": "https://lonelyplanet.com/france/paris/attractions/musee-rodin/a/poi-sig/372149/359279"
+	}, {
+		"name": "Cimetière du Père Lachaise",
+		"location": "Le Marais, Ménilmontant & Belleville",
+		"link": "https://lonelyplanet.com/france/paris/attractions/cimetiere-du-pere-lachaise/a/poi-sig/372157/359279"
+	}, {
+		"name": "Eiffel Tower",
+		"location": "Eiffel Tower & Western Paris",
+		"link": "https://lonelyplanet.com/france/paris/attractions/eiffel-tower/a/poi-sig/372147/359279"
+	}, {
+		"name": "Basilique du Sacré-Cœur",
+		"location": "Montmartre & Northern Paris",
+		"link": "https://lonelyplanet.com/france/paris/attractions/basilique-du-sacre-coeur/a/poi-sig/372145/359279"
+	}, {
+		"name": "Musée d’Orsay",
+		"location": "St-Germain & Les Invalides",
+		"link": "https://lonelyplanet.com/france/paris/attractions/musee-d-orsay/a/poi-sig/372151/359279"
+	}],
+	"currency": "USD"
+}, {
+	"city": "Amsterdam",
+	"costs": [{
+		"item": "Meal, Inexpensive Restaurant",
+		"cost": "16.55",
+		"range": {
+			"low": "11.03",
+			"high": "22.06"
+		}
+	}, {
+		"item": "Meal for 2 People, Mid-range Restaurant, Three-course",
+		"cost": "66.18",
+		"range": {
+			"low": "55.15",
+			"high": "77.21"
+		}
+	}, {
+		"item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+		"cost": "8.82",
+		"range": {
+			"low": "7.72",
+			"high": "10.92"
+		}
+	}, {
+		"item": "Domestic Beer (1 pint draught)",
+		"cost": "4.96",
+		"range": {
+			"low": "3.53",
+			"high": "6.62"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "4.41",
+		"range": {
+			"low": "3.31",
+			"high": "5.52"
+		}
+	}, {
+		"item": "Cappuccino (regular)",
+		"cost": "3.35",
+		"range": {
+			"low": "2.76",
+			"high": "3.86"
+		}
+	}, {
+		"item": "Coke/Pepsi (12 oz small bottle)",
+		"cost": "2.58",
+		"range": {
+			"low": "1.97",
+			"high": "3.31"
+		}
+	}, {
+		"item": "Water (12 oz small bottle)",
+		"cost": "2.11",
+		"range": {
+			"low": "1.10",
+			"high": "2.76"
+		}
+	}, {
+		"item": "Milk (regular), (1 gallon)",
+		"cost": "4.50",
+		"range": {
+			"low": "3.34",
+			"high": "7.52"
+		}
+	}, {
+		"item": "Loaf of Fresh White Bread (1 lb)",
+		"cost": "1.44",
+		"range": {
+			"low": "1.00",
+			"high": "2.56"
+		}
+	}, {
+		"item": "Rice (white), (1 lb)",
+		"cost": "0.96",
+		"range": {
+			"low": "0.63",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Eggs (regular) (12)",
+		"cost": "2.76",
+		"range": {
+			"low": "2.10",
+			"high": "3.86"
+		}
+	}, {
+		"item": "Local Cheese (1 lb)",
+		"cost": "5.95",
+		"range": {
+			"low": "4.00",
+			"high": "10.01"
+		}
+	}, {
+		"item": "Chicken Breasts (Boneless, Skinless), (1 lb)",
+		"cost": "4.62",
+		"range": {
+			"low": "3.50",
+			"high": "6.00"
+		}
+	}, {
+		"item": "Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+		"cost": "7.00",
+		"range": {
+			"low": "3.50",
+			"high": "11.84"
+		}
+	}, {
+		"item": "Apples (1 lb)",
+		"cost": "1.11",
+		"range": {
+			"low": "1.00",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Banana (1 lb)",
+		"cost": "0.84",
+		"range": {
+			"low": "0.50",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Oranges (1 lb)",
+		"cost": "0.99",
+		"range": {
+			"low": "0.65",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Tomato (1 lb)",
+		"cost": "1.32",
+		"range": {
+			"low": "1.00",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Potato (1 lb)",
+		"cost": "0.84",
+		"range": {
+			"low": "0.55",
+			"high": "1.20"
+		}
+	}, {
+		"item": "Onion (1 lb)",
+		"cost": "0.70",
+		"range": {
+			"low": "0.50",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Lettuce (1 head)",
+		"cost": "1.12",
+		"range": {
+			"low": "0.98",
+			"high": "1.65"
+		}
+	}, {
+		"item": "Water (1.5 liter bottle)",
+		"cost": "1.04",
+		"range": {
+			"low": "0.74",
+			"high": "1.43"
+		}
+	}, {
+		"item": "Bottle of Wine (Mid-Range)",
+		"cost": "6.62",
+		"range": {
+			"low": "5.52",
+			"high": "8.82"
+		}
+	}, {
+		"item": "Domestic Beer (0.5 liter bottle)",
+		"cost": "1.43",
+		"range": {
+			"low": "1.10",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "2.35",
+		"range": {
+			"low": "1.92",
+			"high": "3.86"
+		}
+	}, {
+		"item": "Cigarettes 20 Pack (Marlboro)",
+		"cost": "7.72",
+		"range": {
+			"low": "7.61",
+			"high": "7.72"
+		}
+	}, {
+		"item": "One-way Ticket (Local Transport)",
+		"cost": "3.31",
+		"range": {
+			"low": "2.65",
+			"high": "3.53"
+		}
+	}, {
+		"item": "Monthly Pass (Regular Price)",
+		"cost": "103.69",
+		"range": {
+			"low": "95.96",
+			"high": "107.55"
+		}
+	}, {
+		"item": "Taxi Start (Normal Tariff)",
+		"cost": "5.35",
+		"range": {
+			"low": "3.52",
+			"high": "8.27"
+		}
+	}, {
+		"item": "Taxi 1 mile (Normal Tariff)",
+		"cost": "4.17",
+		"range": {
+			"low": "3.85",
+			"high": "5.33"
+		}
+	}, {
+		"item": "Taxi 1hour Waiting (Normal Tariff)",
+		"cost": "44.12",
+		"range": {
+			"low": "25.81",
+			"high": "49.64"
+		}
+	}, {
+		"item": "Gasoline (1 gallon)",
+		"cost": "6.95",
+		"range": {
+			"low": "6.39",
+			"high": "7.52"
+		}
+	}, {
+		"item": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+		"cost": "28,132.96",
+		"range": {
+			"low": "24,266.81",
+			"high": "33,091.11"
+		}
+	}, {
+		"item": "Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)",
+		"cost": "29,395.93",
+		"range": {
+			"low": "26,467.37",
+			"high": "38,606.29"
+		}
+	}, {
+		"item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+		"cost": "176.73",
+		"range": {
+			"low": "110.30",
+			"high": "275.76"
+		}
+	}, {
+		"item": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+		"cost": "0.21",
+		"range": {
+			"low": "0.11",
+			"high": "0.33"
+		}
+	}, {
+		"item": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+		"cost": "44.33",
+		"range": {
+			"low": "30.89",
+			"high": "60.67"
+		}
+	}, {
+		"item": "Fitness Club, Monthly Fee for 1 Adult",
+		"cost": "40.36",
+		"range": {
+			"low": "22.06",
+			"high": "66.18"
+		}
+	}, {
+		"item": "Tennis Court Rent (1 Hour on Weekend)",
+		"cost": "27.22",
+		"range": {
+			"low": "16.55",
+			"high": "33.09"
+		}
+	}, {
+		"item": "Cinema, International Release, 1 Seat",
+		"cost": "13.24",
+		"range": {
+			"low": "11.03",
+			"high": "16.55"
+		}
+	}, {
+		"item": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+		"cost": "1,714.08",
+		"range": {
+			"low": "495.26",
+			"high": "2,206.07"
+		}
+	}, {
+		"item": "International Primary School, Yearly for 1 Child",
+		"cost": "13,573.84",
+		"range": {
+			"low": "6,618.22",
+			"high": "25,369.85"
+		}
+	}, {
+		"item": "1 Pair of Jeans (Levis 501 Or Similar)",
+		"cost": "92.56",
+		"range": {
+			"low": "55.15",
+			"high": "121.33"
+		}
+	}, {
+		"item": "1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+		"cost": "39.57",
+		"range": {
+			"low": "27.58",
+			"high": "55.15"
+		}
+	}, {
+		"item": "1 Pair of Nike Running Shoes (Mid-Range)",
+		"cost": "100.63",
+		"range": {
+			"low": "71.70",
+			"high": "132.36"
+		}
+	}, {
+		"item": "1 Pair of Men Leather Business Shoes",
+		"cost": "137.08",
+		"range": {
+			"low": "88.24",
+			"high": "275.76"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) in City Centre",
+		"cost": "1,726.65",
+		"range": {
+			"low": "1,323.64",
+			"high": "1,985.47"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) Outside of Centre",
+		"cost": "1,298.82",
+		"range": {
+			"low": "882.43",
+			"high": "1,654.56"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) in City Centre",
+		"cost": "2,876.43",
+		"range": {
+			"low": "2,206.07",
+			"high": "3,860.63"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) Outside of Centre",
+		"cost": "2,034.13",
+		"range": {
+			"low": "1,654.56",
+			"high": "2,757.59"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment in City Centre",
+		"cost": "780.37",
+		"range": {
+			"low": "614.85",
+			"high": "973.51"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment Outside of Centre",
+		"cost": "515.46",
+		"range": {
+			"low": "358.66",
+			"high": "614.85"
+		}
+	}, {
+		"item": "Average Monthly Net Salary (After Tax)",
+		"cost": "2,781.16",
+		"range": {
+			"low": ""
+		}
+	}, {
+		"item": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+		"cost": "2.31",
+		"range": {
+			"low": "2.21",
+			"high": "3.31"
+		}
+	}],
+	"topSights": [{
+		"name": "Rijksmuseum",
+		"location": "Vondelpark & the South",
+		"link": "https://lonelyplanet.com/the-netherlands/amsterdam/attractions/rijksmuseum/a/poi-sig/387159/360839"
+	}, {
+		"name": "Anne Frank Huis",
+		"location": "Western Canal Ring",
+		"link": "https://lonelyplanet.com/the-netherlands/amsterdam/attractions/anne-frank-huis/a/poi-sig/387165/360839"
+	}, {
+		"name": "Van Gogh Museum",
+		"location": "Vondelpark & the South",
+		"link": "https://lonelyplanet.com/the-netherlands/amsterdam/attractions/van-gogh-museum/a/poi-sig/387163/360839"
+	}, {
+		"name": "Vondelpark",
+		"location": "Vondelpark & the South",
+		"link": "https://lonelyplanet.com/the-netherlands/amsterdam/attractions/vondelpark/a/poi-sig/1096921/360839"
+	}, {
+		"name": "Museum het Rembrandthuis",
+		"location": "Nieuwmarkt, Plantage & the Eastern Islands",
+		"link": "https://lonelyplanet.com/the-netherlands/amsterdam/attractions/museum-het-rembrandthuis/a/poi-sig/387535/360839"
+	}, {
+		"name": "Hermitage Amsterdam",
+		"location": "Southern Canal Ring",
+		"link": "https://lonelyplanet.com/the-netherlands/amsterdam/attractions/hermitage-amsterdam/a/poi-sig/387467/360839"
+	}, {
+		"name": "De Hallen",
+		"location": "Vondelpark & the South",
+		"link": "https://lonelyplanet.com/the-netherlands/amsterdam/attractions/de-hallen/a/poi-sig/1523852/360839"
+	}, {
+		"name": "Verzetsmuseum",
+		"location": "Nieuwmarkt, Plantage & the Eastern Islands",
+		"link": "https://lonelyplanet.com/the-netherlands/amsterdam/attractions/verzetsmuseum/a/poi-sig/387529/360839"
+	}],
+	"currency": "USD"
+}, {
+	"city": "Madrid",
+	"costs": [{
+		"item": "Meal, Inexpensive Restaurant",
+		"cost": "12.13",
+		"range": {
+			"low": "11.03",
+			"high": "14.34"
+		}
+	}, {
+		"item": "Meal for 2 People, Mid-range Restaurant, Three-course",
+		"cost": "44.12",
+		"range": {
+			"low": "33.09",
+			"high": "60.67"
+		}
+	}, {
+		"item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+		"cost": "8.27",
+		"range": {
+			"low": "7.34",
+			"high": "8.82"
+		}
+	}, {
+		"item": "Domestic Beer (1 pint draught)",
+		"cost": "3.31",
+		"range": {
+			"low": "2.21",
+			"high": "3.86"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "3.86",
+		"range": {
+			"low": "2.76",
+			"high": "4.41"
+		}
+	}, {
+		"item": "Cappuccino (regular)",
+		"cost": "1.95",
+		"range": {
+			"low": "1.43",
+			"high": "2.76"
+		}
+	}, {
+		"item": "Coke/Pepsi (12 oz small bottle)",
+		"cost": "2.04",
+		"range": {
+			"low": "1.10",
+			"high": "2.76"
+		}
+	}, {
+		"item": "Water (12 oz small bottle)",
+		"cost": "1.52",
+		"range": {
+			"low": "1.10",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Milk (regular), (1 gallon)",
+		"cost": "3.52",
+		"range": {
+			"low": "2.51",
+			"high": "5.01"
+		}
+	}, {
+		"item": "Loaf of Fresh White Bread (1 lb)",
+		"cost": "1.05",
+		"range": {
+			"low": "0.55",
+			"high": "2.00"
+		}
+	}, {
+		"item": "Rice (white), (1 lb)",
+		"cost": "0.49",
+		"range": {
+			"low": "0.40",
+			"high": "0.75"
+		}
+	}, {
+		"item": "Eggs (regular) (12)",
+		"cost": "1.78",
+		"range": {
+			"low": "1.32",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Local Cheese (1 lb)",
+		"cost": "5.01",
+		"range": {
+			"low": "2.00",
+			"high": "8.01"
+		}
+	}, {
+		"item": "Chicken Breasts (Boneless, Skinless), (1 lb)",
+		"cost": "3.20",
+		"range": {
+			"low": "2.25",
+			"high": "4.00"
+		}
+	}, {
+		"item": "Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+		"cost": "5.63",
+		"range": {
+			"low": "3.50",
+			"high": "8.51"
+		}
+	}, {
+		"item": "Apples (1 lb)",
+		"cost": "0.88",
+		"range": {
+			"low": "0.65",
+			"high": "1.10"
+		}
+	}, {
+		"item": "Banana (1 lb)",
+		"cost": "0.79",
+		"range": {
+			"low": "0.58",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Oranges (1 lb)",
+		"cost": "0.74",
+		"range": {
+			"low": "0.50",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Tomato (1 lb)",
+		"cost": "0.85",
+		"range": {
+			"low": "0.50",
+			"high": "1.25"
+		}
+	}, {
+		"item": "Potato (1 lb)",
+		"cost": "0.52",
+		"range": {
+			"low": "0.30",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Onion (1 lb)",
+		"cost": "0.52",
+		"range": {
+			"low": "0.30",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Lettuce (1 head)",
+		"cost": "1.09",
+		"range": {
+			"low": "0.88",
+			"high": "1.65"
+		}
+	}, {
+		"item": "Water (1.5 liter bottle)",
+		"cost": "0.69",
+		"range": {
+			"low": "0.33",
+			"high": "1.10"
+		}
+	}, {
+		"item": "Bottle of Wine (Mid-Range)",
+		"cost": "6.62",
+		"range": {
+			"low": "4.41",
+			"high": "8.82"
+		}
+	}, {
+		"item": "Domestic Beer (0.5 liter bottle)",
+		"cost": "0.98",
+		"range": {
+			"low": "0.66",
+			"high": "1.67"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "1.66",
+		"range": {
+			"low": "1.10",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Cigarettes 20 Pack (Marlboro)",
+		"cost": "5.52",
+		"range": {
+			"low": "5.35",
+			"high": "6.07"
+		}
+	}, {
+		"item": "One-way Ticket (Local Transport)",
+		"cost": "1.65",
+		"range": {
+			"low": "1.35",
+			"high": "1.93"
+		}
+	}, {
+		"item": "Monthly Pass (Regular Price)",
+		"cost": "60.23",
+		"range": {
+			"low": "58.46",
+			"high": "61.77"
+		}
+	}, {
+		"item": "Taxi Start (Normal Tariff)",
+		"cost": "3.31",
+		"range": {
+			"low": "2.76",
+			"high": "4.41"
+		}
+	}, {
+		"item": "Taxi 1 mile (Normal Tariff)",
+		"cost": "1.91",
+		"range": {
+			"low": "1.86",
+			"high": "2.98"
+		}
+	}, {
+		"item": "Taxi 1hour Waiting (Normal Tariff)",
+		"cost": "24.27",
+		"range": {
+			"low": "22.50",
+			"high": "33.09"
+		}
+	}, {
+		"item": "Gasoline (1 gallon)",
+		"cost": "5.55",
+		"range": {
+			"low": "5.01",
+			"high": "5.85"
+		}
+	}, {
+		"item": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+		"cost": "22,060.74",
+		"range": {
+			"low": "19,854.66",
+			"high": "24,276.85"
+		}
+	}, {
+		"item": "Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)",
+		"cost": "22,947.14",
+		"range": {
+			"low": "17,648.59",
+			"high": "27,575.92"
+		}
+	}, {
+		"item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+		"cost": "140.70",
+		"range": {
+			"low": "78.13",
+			"high": "220.61"
+		}
+	}, {
+		"item": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+		"cost": "0.19",
+		"range": {
+			"low": "0.07",
+			"high": "0.33"
+		}
+	}, {
+		"item": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+		"cost": "45.93",
+		"range": {
+			"low": "33.09",
+			"high": "66.18"
+		}
+	}, {
+		"item": "Fitness Club, Monthly Fee for 1 Adult",
+		"cost": "39.55",
+		"range": {
+			"low": "27.58",
+			"high": "55.15"
+		}
+	}, {
+		"item": "Tennis Court Rent (1 Hour on Weekend)",
+		"cost": "12.66",
+		"range": {
+			"low": "8.82",
+			"high": "19.85"
+		}
+	}, {
+		"item": "Cinema, International Release, 1 Seat",
+		"cost": "9.93",
+		"range": {
+			"low": "8.82",
+			"high": "11.03"
+		}
+	}, {
+		"item": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+		"cost": "499.58",
+		"range": {
+			"low": "419.15",
+			"high": "661.82"
+		}
+	}, {
+		"item": "International Primary School, Yearly for 1 Child",
+		"cost": "7,932.94",
+		"range": {
+			"low": "4,632.75",
+			"high": "13,236.44"
+		}
+	}, {
+		"item": "1 Pair of Jeans (Levis 501 Or Similar)",
+		"cost": "78.19",
+		"range": {
+			"low": "44.12",
+			"high": "110.30"
+		}
+	}, {
+		"item": "1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+		"cost": "29.92",
+		"range": {
+			"low": "22.06",
+			"high": "43.02"
+		}
+	}, {
+		"item": "1 Pair of Nike Running Shoes (Mid-Range)",
+		"cost": "80.75",
+		"range": {
+			"low": "55.15",
+			"high": "104.79"
+		}
+	}, {
+		"item": "1 Pair of Men Leather Business Shoes",
+		"cost": "99.14",
+		"range": {
+			"low": "66.18",
+			"high": "132.36"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) in City Centre",
+		"cost": "1,002.61",
+		"range": {
+			"low": "772.13",
+			"high": "1,323.64"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) Outside of Centre",
+		"cost": "765.37",
+		"range": {
+			"low": "551.52",
+			"high": "981.70"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) in City Centre",
+		"cost": "1,791.48",
+		"range": {
+			"low": "1,323.64",
+			"high": "2,221.57"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) Outside of Centre",
+		"cost": "1,230.11",
+		"range": {
+			"low": "959.64",
+			"high": "1,654.56"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment in City Centre",
+		"cost": "544.82",
+		"range": {
+			"low": "358.66",
+			"high": "717.32"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment Outside of Centre",
+		"cost": "291.22",
+		"range": {
+			"low": "204.95",
+			"high": "409.90"
+		}
+	}, {
+		"item": "Average Monthly Net Salary (After Tax)",
+		"cost": "1,813.17",
+		"range": {
+			"low": ""
+		}
+	}, {
+		"item": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+		"cost": "2.16",
+		"range": {
+			"low": "2.10",
+			"high": "3.20"
+		}
+	}],
+	"topSights": [{
+		"name": "Museo del Prado",
+		"location": "El Retiro & the Art Museums",
+		"link": "https://lonelyplanet.com/spain/madrid/attractions/museo-del-prado/a/poi-sig/399599/360770"
+	}, {
+		"name": "Museo Thyssen-Bornemisza",
+		"location": "El Retiro & the Art Museums",
+		"link": "https://lonelyplanet.com/spain/madrid/attractions/museo-thyssen-bornemisza/a/poi-sig/399601/360770"
+	}, {
+		"name": "Centro de Arte Reina Sofía",
+		"location": "El Retiro & the Art Museums",
+		"link": "https://lonelyplanet.com/spain/madrid/attractions/centro-de-arte-reina-sofia/a/poi-sig/399591/360770"
+	}, {
+		"name": "Parque del Buen Retiro",
+		"location": "El Retiro & the Art Museums",
+		"link": "https://lonelyplanet.com/spain/madrid/attractions/parque-del-buen-retiro/a/poi-sig/399603/360770"
+	}, {
+		"name": "Museo Lázaro Galdiano",
+		"location": "Salamanca",
+		"link": "https://lonelyplanet.com/spain/madrid/attractions/museo-lazaro-galdiano/a/poi-sig/1094855/360770"
+	}, {
+		"name": "Real Academia de Bellas Artes de San Fernando",
+		"location": "Sol, Santa Ana & Huertas",
+		"link": "https://lonelyplanet.com/spain/madrid/attractions/real-academia-de-bellas-artes-de-san-fernando/a/poi-sig/1094815/360770"
+	}, {
+		"name": "Plaza Mayor",
+		"location": "Plaza Mayor & Royal Madrid",
+		"link": "https://lonelyplanet.com/spain/madrid/attractions/plaza-mayor/a/poi-sig/399605/360770"
+	}, {
+		"name": "Plaza de Toros",
+		"location": "Salamanca",
+		"link": "https://lonelyplanet.com/spain/madrid/attractions/plaza-de-toros/a/poi-sig/1205219/360770"
+	}],
+	"currency": "USD"
+}, {
+	"city": "Barcelona",
+	"costs": [{
+		"item": "Meal, Inexpensive Restaurant",
+		"cost": "12.13",
+		"range": {
+			"low": "11.03",
+			"high": "14.34"
+		}
+	}, {
+		"item": "Meal for 2 People, Mid-range Restaurant, Three-course",
+		"cost": "44.12",
+		"range": {
+			"low": "33.09",
+			"high": "55.15"
+		}
+	}, {
+		"item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+		"cost": "7.72",
+		"range": {
+			"low": "7.67",
+			"high": "9.38"
+		}
+	}, {
+		"item": "Domestic Beer (1 pint draught)",
+		"cost": "2.76",
+		"range": {
+			"low": "2.21",
+			"high": "3.86"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "3.31",
+		"range": {
+			"low": "2.21",
+			"high": "4.41"
+		}
+	}, {
+		"item": "Cappuccino (regular)",
+		"cost": "2.00",
+		"range": {
+			"low": "1.54",
+			"high": "2.76"
+		}
+	}, {
+		"item": "Coke/Pepsi (12 oz small bottle)",
+		"cost": "1.91",
+		"range": {
+			"low": "1.10",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Water (12 oz small bottle)",
+		"cost": "1.40",
+		"range": {
+			"low": "0.99",
+			"high": "1.65"
+		}
+	}, {
+		"item": "Milk (regular), (1 gallon)",
+		"cost": "3.47",
+		"range": {
+			"low": "2.51",
+			"high": "4.59"
+		}
+	}, {
+		"item": "Loaf of Fresh White Bread (1 lb)",
+		"cost": "1.02",
+		"range": {
+			"low": "0.70",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Rice (white), (1 lb)",
+		"cost": "0.48",
+		"range": {
+			"low": "0.30",
+			"high": "0.90"
+		}
+	}, {
+		"item": "Eggs (regular) (12)",
+		"cost": "1.69",
+		"range": {
+			"low": "1.32",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Local Cheese (1 lb)",
+		"cost": "5.27",
+		"range": {
+			"low": "3.00",
+			"high": "10.01"
+		}
+	}, {
+		"item": "Chicken Breasts (Boneless, Skinless), (1 lb)",
+		"cost": "3.15",
+		"range": {
+			"low": "2.00",
+			"high": "4.00"
+		}
+	}, {
+		"item": "Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+		"cost": "5.02",
+		"range": {
+			"low": "3.50",
+			"high": "7.50"
+		}
+	}, {
+		"item": "Apples (1 lb)",
+		"cost": "0.84",
+		"range": {
+			"low": "0.60",
+			"high": "1.13"
+		}
+	}, {
+		"item": "Banana (1 lb)",
+		"cost": "0.75",
+		"range": {
+			"low": "0.50",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Oranges (1 lb)",
+		"cost": "0.69",
+		"range": {
+			"low": "0.50",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Tomato (1 lb)",
+		"cost": "0.76",
+		"range": {
+			"low": "0.50",
+			"high": "1.25"
+		}
+	}, {
+		"item": "Potato (1 lb)",
+		"cost": "0.51",
+		"range": {
+			"low": "0.40",
+			"high": "0.68"
+		}
+	}, {
+		"item": "Onion (1 lb)",
+		"cost": "0.61",
+		"range": {
+			"low": "0.45",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Lettuce (1 head)",
+		"cost": "1.01",
+		"range": {
+			"low": "0.77",
+			"high": "1.10"
+		}
+	}, {
+		"item": "Water (1.5 liter bottle)",
+		"cost": "0.70",
+		"range": {
+			"low": "0.33",
+			"high": "1.10"
+		}
+	}, {
+		"item": "Bottle of Wine (Mid-Range)",
+		"cost": "5.52",
+		"range": {
+			"low": "4.41",
+			"high": "7.72"
+		}
+	}, {
+		"item": "Domestic Beer (0.5 liter bottle)",
+		"cost": "0.89",
+		"range": {
+			"low": "0.55",
+			"high": "1.32"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "1.55",
+		"range": {
+			"low": "1.10",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Cigarettes 20 Pack (Marlboro)",
+		"cost": "5.52",
+		"range": {
+			"low": "5.35",
+			"high": "6.07"
+		}
+	}, {
+		"item": "One-way Ticket (Local Transport)",
+		"cost": "2.37",
+		"range": {
+			"low": "1.38",
+			"high": "2.43"
+		}
+	}, {
+		"item": "Monthly Pass (Regular Price)",
+		"cost": "55.15",
+		"range": {
+			"low": "47.98",
+			"high": "59.56"
+		}
+	}, {
+		"item": "Taxi Start (Normal Tariff)",
+		"cost": "2.76",
+		"range": {
+			"low": "2.37",
+			"high": "3.86"
+		}
+	}, {
+		"item": "Taxi 1 mile (Normal Tariff)",
+		"cost": "2.01",
+		"range": {
+			"low": "1.78",
+			"high": "2.13"
+		}
+	}, {
+		"item": "Taxi 1hour Waiting (Normal Tariff)",
+		"cost": "24.38",
+		"range": {
+			"low": "24.27",
+			"high": "33.09"
+		}
+	}, {
+		"item": "Gasoline (1 gallon)",
+		"cost": "5.56",
+		"range": {
+			"low": "5.01",
+			"high": "6.05"
+		}
+	}, {
+		"item": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+		"cost": "24,266.81",
+		"range": {
+			"low": "19,854.66",
+			"high": "25,921.37"
+		}
+	}, {
+		"item": "Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)",
+		"cost": "22,751.33",
+		"range": {
+			"low": "17,648.59",
+			"high": "27,575.92"
+		}
+	}, {
+		"item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+		"cost": "153.27",
+		"range": {
+			"low": "93.76",
+			"high": "250.02"
+		}
+	}, {
+		"item": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+		"cost": "0.15",
+		"range": {
+			"low": "0.09",
+			"high": "0.22"
+		}
+	}, {
+		"item": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+		"cost": "48.12",
+		"range": {
+			"low": "33.09",
+			"high": "66.18"
+		}
+	}, {
+		"item": "Fitness Club, Monthly Fee for 1 Adult",
+		"cost": "45.46",
+		"range": {
+			"low": "33.09",
+			"high": "57.40"
+		}
+	}, {
+		"item": "Tennis Court Rent (1 Hour on Weekend)",
+		"cost": "20.51",
+		"range": {
+			"low": "11.03",
+			"high": "33.09"
+		}
+	}, {
+		"item": "Cinema, International Release, 1 Seat",
+		"cost": "9.38",
+		"range": {
+			"low": "8.82",
+			"high": "9.93"
+		}
+	}, {
+		"item": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+		"cost": "473.83",
+		"range": {
+			"low": "352.97",
+			"high": "551.52"
+		}
+	}, {
+		"item": "International Primary School, Yearly for 1 Child",
+		"cost": "8,559.82",
+		"range": {
+			"low": "5,294.58",
+			"high": "13,236.44"
+		}
+	}, {
+		"item": "1 Pair of Jeans (Levis 501 Or Similar)",
+		"cost": "80.74",
+		"range": {
+			"low": "38.61",
+			"high": "110.30"
+		}
+	}, {
+		"item": "1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+		"cost": "29.85",
+		"range": {
+			"low": "20.96",
+			"high": "44.12"
+		}
+	}, {
+		"item": "1 Pair of Nike Running Shoes (Mid-Range)",
+		"cost": "89.80",
+		"range": {
+			"low": "66.18",
+			"high": "110.30"
+		}
+	}, {
+		"item": "1 Pair of Men Leather Business Shoes",
+		"cost": "104.47",
+		"range": {
+			"low": "71.70",
+			"high": "143.39"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) in City Centre",
+		"cost": "1,064.44",
+		"range": {
+			"low": "882.43",
+			"high": "1,323.64"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) Outside of Centre",
+		"cost": "798.28",
+		"range": {
+			"low": "661.82",
+			"high": "992.73"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) in City Centre",
+		"cost": "1,714.38",
+		"range": {
+			"low": "1,323.64",
+			"high": "2,206.07"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) Outside of Centre",
+		"cost": "1,229.43",
+		"range": {
+			"low": "992.73",
+			"high": "1,654.56"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment in City Centre",
+		"cost": "457.51",
+		"range": {
+			"low": "307.42",
+			"high": "573.86"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment Outside of Centre",
+		"cost": "315.75",
+		"range": {
+			"low": "204.95",
+			"high": "409.90"
+		}
+	}, {
+		"item": "Average Monthly Net Salary (After Tax)",
+		"cost": "1,586.81",
+		"range": {
+			"low": ""
+		}
+	}, {
+		"item": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+		"cost": "2.36",
+		"range": {
+			"low": "2.21",
+			"high": "3.31"
+		}
+	}],
+	"topSights": [{
+		"name": "La Sagrada Família",
+		"location": "L'Eixample",
+		"link": "https://lonelyplanet.com/spain/barcelona/attractions/la-sagrada-familia/a/poi-sig/374867/360761"
+	}, {
+		"name": "Park Güell",
+		"location": "Gràcia & Park Güell",
+		"link": "https://lonelyplanet.com/spain/barcelona/attractions/park-guell/a/poi-sig/374905/360761"
+	}, {
+		"name": "Casa Batlló",
+		"location": "L'Eixample",
+		"link": "https://lonelyplanet.com/spain/barcelona/attractions/casa-batllo/a/poi-sig/375147/360761"
+	}, {
+		"name": "La Catedral",
+		"location": "La Rambla & Barri Gòtic",
+		"link": "https://lonelyplanet.com/spain/barcelona/attractions/la-catedral/a/poi-sig/1204430/360761"
+	}, {
+		"name": "Museu Picasso",
+		"location": "La Ribera",
+		"link": "https://lonelyplanet.com/spain/barcelona/attractions/museu-picasso/a/poi-sig/374865/360761"
+	}, {
+		"name": "Museu Nacional d’Art de Catalunya",
+		"location": "Montjuïc, Poble Sec & Sant Antoni",
+		"link": "https://lonelyplanet.com/spain/barcelona/attractions/museu-nacional-d-art-de-catalunya/a/poi-sig/375177/360761"
+	}, {
+		"name": "Museu d’Història de Barcelona",
+		"location": "La Rambla & Barri Gòtic",
+		"link": "https://lonelyplanet.com/spain/barcelona/attractions/museu-d-historia-de-barcelona/a/poi-sig/1137415/360761"
+	}, {
+		"name": "Fundació Joan Miró",
+		"location": "Montjuïc, Poble Sec & Sant Antoni",
+		"link": "https://lonelyplanet.com/spain/barcelona/attractions/fundacio-joan-miro/a/poi-sig/374907/360761"
+	}],
+	"currency": "USD"
+}, {
+	"city": "Rome",
+	"costs": [{
+		"item": "Meal, Inexpensive Restaurant",
+		"cost": "16.55",
+		"range": {
+			"low": "11.03",
+			"high": "22.06"
+		}
+	}, {
+		"item": "Meal for 2 People, Mid-range Restaurant, Three-course",
+		"cost": "61.22",
+		"range": {
+			"low": "55.15",
+			"high": "71.70"
+		}
+	}, {
+		"item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+		"cost": "8.82",
+		"range": {
+			"low": "7.72",
+			"high": "9.93"
+		}
+	}, {
+		"item": "Domestic Beer (1 pint draught)",
+		"cost": "5.52",
+		"range": {
+			"low": "4.41",
+			"high": "5.52"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "4.41",
+		"range": {
+			"low": "3.31",
+			"high": "5.52"
+		}
+	}, {
+		"item": "Cappuccino (regular)",
+		"cost": "1.40",
+		"range": {
+			"low": "1.10",
+			"high": "1.65"
+		}
+	}, {
+		"item": "Coke/Pepsi (12 oz small bottle)",
+		"cost": "2.09",
+		"range": {
+			"low": "1.65",
+			"high": "2.76"
+		}
+	}, {
+		"item": "Water (12 oz small bottle)",
+		"cost": "1.09",
+		"range": {
+			"low": "0.77",
+			"high": "1.10"
+		}
+	}, {
+		"item": "Milk (regular), (1 gallon)",
+		"cost": "5.37",
+		"range": {
+			"low": "4.18",
+			"high": "7.10"
+		}
+	}, {
+		"item": "Loaf of Fresh White Bread (1 lb)",
+		"cost": "1.56",
+		"range": {
+			"low": "1.00",
+			"high": "2.00"
+		}
+	}, {
+		"item": "Rice (white), (1 lb)",
+		"cost": "1.00",
+		"range": {
+			"low": "0.65",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Eggs (regular) (12)",
+		"cost": "3.29",
+		"range": {
+			"low": "2.21",
+			"high": "5.29"
+		}
+	}, {
+		"item": "Local Cheese (1 lb)",
+		"cost": "5.97",
+		"range": {
+			"low": "4.00",
+			"high": "8.01"
+		}
+	}, {
+		"item": "Chicken Breasts (Boneless, Skinless), (1 lb)",
+		"cost": "4.20",
+		"range": {
+			"low": "3.50",
+			"high": "5.00"
+		}
+	}, {
+		"item": "Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+		"cost": "7.30",
+		"range": {
+			"low": "5.00",
+			"high": "9.01"
+		}
+	}, {
+		"item": "Apples (1 lb)",
+		"cost": "0.96",
+		"range": {
+			"low": "0.65",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Banana (1 lb)",
+		"cost": "0.87",
+		"range": {
+			"low": "0.60",
+			"high": "1.25"
+		}
+	}, {
+		"item": "Oranges (1 lb)",
+		"cost": "0.93",
+		"range": {
+			"low": "0.75",
+			"high": "1.40"
+		}
+	}, {
+		"item": "Tomato (1 lb)",
+		"cost": "1.02",
+		"range": {
+			"low": "0.75",
+			"high": "1.90"
+		}
+	}, {
+		"item": "Potato (1 lb)",
+		"cost": "0.67",
+		"range": {
+			"low": "0.50",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Onion (1 lb)",
+		"cost": "0.66",
+		"range": {
+			"low": "0.50",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Lettuce (1 head)",
+		"cost": "1.21",
+		"range": {
+			"low": "0.66",
+			"high": "2.20"
+		}
+	}, {
+		"item": "Water (1.5 liter bottle)",
+		"cost": "0.43",
+		"range": {
+			"low": "0.33",
+			"high": "0.83"
+		}
+	}, {
+		"item": "Bottle of Wine (Mid-Range)",
+		"cost": "6.34",
+		"range": {
+			"low": "5.52",
+			"high": "8.82"
+		}
+	}, {
+		"item": "Domestic Beer (0.5 liter bottle)",
+		"cost": "1.17",
+		"range": {
+			"low": "0.87",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "1.85",
+		"range": {
+			"low": "1.10",
+			"high": "3.31"
+		}
+	}, {
+		"item": "Cigarettes 20 Pack (Marlboro)",
+		"cost": "6.07",
+		"range": {
+			"low": "5.74",
+			"high": "6.29"
+		}
+	}, {
+		"item": "One-way Ticket (Local Transport)",
+		"cost": "1.65",
+		"range": {
+			"low": "1.65",
+			"high": "1.65"
+		}
+	}, {
+		"item": "Monthly Pass (Regular Price)",
+		"cost": "38.61",
+		"range": {
+			"low": "35.30",
+			"high": "38.61"
+		}
+	}, {
+		"item": "Taxi Start (Normal Tariff)",
+		"cost": "4.41",
+		"range": {
+			"low": "3.86",
+			"high": "5.52"
+		}
+	}, {
+		"item": "Taxi 1 mile (Normal Tariff)",
+		"cost": "2.50",
+		"range": {
+			"low": "1.95",
+			"high": "2.66"
+		}
+	}, {
+		"item": "Taxi 1hour Waiting (Normal Tariff)",
+		"cost": "33.09",
+		"range": {
+			"low": "29.78",
+			"high": "55.15"
+		}
+	}, {
+		"item": "Gasoline (1 gallon)",
+		"cost": "6.63",
+		"range": {
+			"low": "6.22",
+			"high": "7.10"
+		}
+	}, {
+		"item": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+		"cost": "22,667.41",
+		"range": {
+			"low": "22,060.74",
+			"high": "27,575.92"
+		}
+	}, {
+		"item": "Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)",
+		"cost": "25,985.71",
+		"range": {
+			"low": "22,612.26",
+			"high": "30,885.03"
+		}
+	}, {
+		"item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+		"cost": "184.55",
+		"range": {
+			"low": "110.30",
+			"high": "275.76"
+		}
+	}, {
+		"item": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+		"cost": "0.20",
+		"range": {
+			"low": "0.03",
+			"high": "0.33"
+		}
+	}, {
+		"item": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+		"cost": "32.05",
+		"range": {
+			"low": "27.58",
+			"high": "38.61"
+		}
+	}, {
+		"item": "Fitness Club, Monthly Fee for 1 Adult",
+		"cost": "59.74",
+		"range": {
+			"low": "44.12",
+			"high": "88.24"
+		}
+	}, {
+		"item": "Tennis Court Rent (1 Hour on Weekend)",
+		"cost": "18.57",
+		"range": {
+			"low": "11.03",
+			"high": "33.09"
+		}
+	}, {
+		"item": "Cinema, International Release, 1 Seat",
+		"cost": "9.93",
+		"range": {
+			"low": "8.82",
+			"high": "12.13"
+		}
+	}, {
+		"item": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+		"cost": "582.15",
+		"range": {
+			"low": "386.06",
+			"high": "761.10"
+		}
+	}, {
+		"item": "International Primary School, Yearly for 1 Child",
+		"cost": "13,699.72",
+		"range": {
+			"low": "7,721.26",
+			"high": "17,648.59"
+		}
+	}, {
+		"item": "1 Pair of Jeans (Levis 501 Or Similar)",
+		"cost": "90.51",
+		"range": {
+			"low": "66.18",
+			"high": "110.30"
+		}
+	}, {
+		"item": "1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+		"cost": "34.68",
+		"range": {
+			"low": "22.06",
+			"high": "55.10"
+		}
+	}, {
+		"item": "1 Pair of Nike Running Shoes (Mid-Range)",
+		"cost": "93.84",
+		"range": {
+			"low": "66.18",
+			"high": "132.36"
+		}
+	}, {
+		"item": "1 Pair of Men Leather Business Shoes",
+		"cost": "131.08",
+		"range": {
+			"low": "88.24",
+			"high": "198.55"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) in City Centre",
+		"cost": "1,115.56",
+		"range": {
+			"low": "772.13",
+			"high": "1,489.10"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) Outside of Centre",
+		"cost": "745.26",
+		"range": {
+			"low": "551.52",
+			"high": "882.43"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) in City Centre",
+		"cost": "2,078.54",
+		"range": {
+			"low": "1,489.10",
+			"high": "3,309.11"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) Outside of Centre",
+		"cost": "1,286.88",
+		"range": {
+			"low": "992.73",
+			"high": "1,654.56"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment in City Centre",
+		"cost": "689.03",
+		"range": {
+			"low": "409.90",
+			"high": "1,024.75"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment Outside of Centre",
+		"cost": "292.05",
+		"range": {
+			"low": "194.70",
+			"high": "409.90"
+		}
+	}, {
+		"item": "Average Monthly Net Salary (After Tax)",
+		"cost": "1,598.91",
+		"range": {
+			"low": ""
+		}
+	}, {
+		"item": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+		"cost": "2.10",
+		"range": {
+			"low": "1.65",
+			"high": "3.31"
+		}
+	}],
+	"topSights": [{
+		"name": "Vatican Museums",
+		"location": "Vatican City, Borgo & Prati",
+		"link": "https://lonelyplanet.com/italy/rome/attractions/vatican-museums/a/poi-sig/1256585/359975"
+	}, {
+		"name": "Roman Forum",
+		"location": "Ancient Rome",
+		"link": "https://lonelyplanet.com/italy/rome/attractions/roman-forum/a/poi-sig/389047/359975"
+	}, {
+		"name": "St Peter's Basilica",
+		"location": "Vatican City, Borgo & Prati",
+		"link": "https://lonelyplanet.com/italy/rome/attractions/st-peter-s-basilica/a/poi-sig/1256581/359975"
+	}, {
+		"name": "Palatino",
+		"location": "Ancient Rome",
+		"link": "https://lonelyplanet.com/italy/rome/attractions/palatino/a/poi-sig/1090383/359975"
+	}, {
+		"name": "Museo e Galleria Borghese",
+		"location": "Villa Borghese & Northern Rome",
+		"link": "https://lonelyplanet.com/italy/rome/attractions/museo-e-galleria-borghese/a/poi-sig/389101/359975"
+	}, {
+		"name": "Colosseum",
+		"location": "Ancient Rome",
+		"link": "https://lonelyplanet.com/italy/rome/attractions/colosseum/a/poi-sig/1160430/359975"
+	}, {
+		"name": "Capitoline Museums",
+		"location": "Ancient Rome",
+		"link": "https://lonelyplanet.com/italy/rome/attractions/capitoline-museums/a/poi-sig/389381/359975"
+	}, {
+		"name": "Pantheon",
+		"location": "Centro Storico",
+		"link": "https://lonelyplanet.com/italy/rome/attractions/pantheon/a/poi-sig/389093/359975"
+	}],
+	"currency": "USD"
+}, {
+	"city": "Dublin",
+	"costs": [{
+		"item": "Meal, Inexpensive Restaurant",
+		"cost": "16.55",
+		"range": {
+			"low": "13.24",
+			"high": "22.06"
+		}
+	}, {
+		"item": "Meal for 2 People, Mid-range Restaurant, Three-course",
+		"cost": "66.18",
+		"range": {
+			"low": "52.95",
+			"high": "82.73"
+		}
+	}, {
+		"item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+		"cost": "8.82",
+		"range": {
+			"low": "7.72",
+			"high": "9.93"
+		}
+	}, {
+		"item": "Domestic Beer (1 pint draught)",
+		"cost": "6.07",
+		"range": {
+			"low": "5.52",
+			"high": "6.62"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "6.07",
+		"range": {
+			"low": "5.07",
+			"high": "6.62"
+		}
+	}, {
+		"item": "Cappuccino (regular)",
+		"cost": "3.52",
+		"range": {
+			"low": "2.87",
+			"high": "3.86"
+		}
+	}, {
+		"item": "Coke/Pepsi (12 oz small bottle)",
+		"cost": "1.94",
+		"range": {
+			"low": "1.32",
+			"high": "3.09"
+		}
+	}, {
+		"item": "Water (12 oz small bottle)",
+		"cost": "1.68",
+		"range": {
+			"low": "1.10",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Milk (regular), (1 gallon)",
+		"cost": "4.05",
+		"range": {
+			"low": "3.13",
+			"high": "6.26"
+		}
+	}, {
+		"item": "Loaf of Fresh White Bread (1 lb)",
+		"cost": "1.42",
+		"range": {
+			"low": "0.94",
+			"high": "2.00"
+		}
+	}, {
+		"item": "Rice (white), (1 lb)",
+		"cost": "0.70",
+		"range": {
+			"low": "0.50",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Eggs (regular) (12)",
+		"cost": "2.98",
+		"range": {
+			"low": "2.21",
+			"high": "4.17"
+		}
+	}, {
+		"item": "Local Cheese (1 lb)",
+		"cost": "4.15",
+		"range": {
+			"low": "2.20",
+			"high": "6.25"
+		}
+	}, {
+		"item": "Chicken Breasts (Boneless, Skinless), (1 lb)",
+		"cost": "4.15",
+		"range": {
+			"low": "2.50",
+			"high": "5.00"
+		}
+	}, {
+		"item": "Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+		"cost": "4.56",
+		"range": {
+			"low": "2.69",
+			"high": "6.00"
+		}
+	}, {
+		"item": "Apples (1 lb)",
+		"cost": "1.05",
+		"range": {
+			"low": "0.65",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Banana (1 lb)",
+		"cost": "0.90",
+		"range": {
+			"low": "0.63",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Oranges (1 lb)",
+		"cost": "1.12",
+		"range": {
+			"low": "0.75",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Tomato (1 lb)",
+		"cost": "1.31",
+		"range": {
+			"low": "0.75",
+			"high": "2.00"
+		}
+	}, {
+		"item": "Potato (1 lb)",
+		"cost": "0.80",
+		"range": {
+			"low": "0.50",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Onion (1 lb)",
+		"cost": "0.57",
+		"range": {
+			"low": "0.30",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Lettuce (1 head)",
+		"cost": "1.05",
+		"range": {
+			"low": "0.83",
+			"high": "1.65"
+		}
+	}, {
+		"item": "Water (1.5 liter bottle)",
+		"cost": "1.53",
+		"range": {
+			"low": "0.76",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Bottle of Wine (Mid-Range)",
+		"cost": "13.24",
+		"range": {
+			"low": "9.93",
+			"high": "15.44"
+		}
+	}, {
+		"item": "Domestic Beer (0.5 liter bottle)",
+		"cost": "2.56",
+		"range": {
+			"low": "2.21",
+			"high": "3.31"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "2.83",
+		"range": {
+			"low": "2.21",
+			"high": "3.86"
+		}
+	}, {
+		"item": "Cigarettes 20 Pack (Marlboro)",
+		"cost": "13.79",
+		"range": {
+			"low": "13.24",
+			"high": "15.44"
+		}
+	}, {
+		"item": "One-way Ticket (Local Transport)",
+		"cost": "3.09",
+		"range": {
+			"low": "2.65",
+			"high": "3.53"
+		}
+	}, {
+		"item": "Monthly Pass (Regular Price)",
+		"cost": "132.36",
+		"range": {
+			"low": "110.30",
+			"high": "165.46"
+		}
+	}, {
+		"item": "Taxi Start (Normal Tariff)",
+		"cost": "4.41",
+		"range": {
+			"low": "3.97",
+			"high": "5.29"
+		}
+	}, {
+		"item": "Taxi 1 mile (Normal Tariff)",
+		"cost": "2.49",
+		"range": {
+			"low": "2.02",
+			"high": "3.55"
+		}
+	}, {
+		"item": "Taxi 1hour Waiting (Normal Tariff)",
+		"cost": "27.12",
+		"range": {
+			"low": "26.47",
+			"high": "33.09"
+		}
+	}, {
+		"item": "Gasoline (1 gallon)",
+		"cost": "5.90",
+		"range": {
+			"low": "5.59",
+			"high": "6.26"
+		}
+	}, {
+		"item": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+		"cost": "26,472.89",
+		"range": {
+			"low": "24,266.81",
+			"high": "30,885.03"
+		}
+	}, {
+		"item": "Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)",
+		"cost": "28,192.37",
+		"range": {
+			"low": "25,369.85",
+			"high": "30,885.03"
+		}
+	}, {
+		"item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+		"cost": "181.95",
+		"range": {
+			"low": "110.30",
+			"high": "281.27"
+		}
+	}, {
+		"item": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+		"cost": "0.27",
+		"range": {
+			"low": "0.12",
+			"high": "0.39"
+		}
+	}, {
+		"item": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+		"cost": "60.11",
+		"range": {
+			"low": "44.12",
+			"high": "70.59"
+		}
+	}, {
+		"item": "Fitness Club, Monthly Fee for 1 Adult",
+		"cost": "43.06",
+		"range": {
+			"low": "31.99",
+			"high": "66.18"
+		}
+	}, {
+		"item": "Tennis Court Rent (1 Hour on Weekend)",
+		"cost": "16.43",
+		"range": {
+			"low": "8.82",
+			"high": "27.58"
+		}
+	}, {
+		"item": "Cinema, International Release, 1 Seat",
+		"cost": "13.24",
+		"range": {
+			"low": "11.03",
+			"high": "15.44"
+		}
+	}, {
+		"item": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+		"cost": "1,110.50",
+		"range": {
+			"low": "882.43",
+			"high": "1,323.64"
+		}
+	}, {
+		"item": "International Primary School, Yearly for 1 Child",
+		"cost": "9,395.81",
+		"range": {
+			"low": "6,066.70",
+			"high": "13,236.44"
+		}
+	}, {
+		"item": "1 Pair of Jeans (Levis 501 Or Similar)",
+		"cost": "83.60",
+		"range": {
+			"low": "55.15",
+			"high": "110.30"
+		}
+	}, {
+		"item": "1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+		"cost": "38.32",
+		"range": {
+			"low": "27.58",
+			"high": "55.15"
+		}
+	}, {
+		"item": "1 Pair of Nike Running Shoes (Mid-Range)",
+		"cost": "90.51",
+		"range": {
+			"low": "66.18",
+			"high": "110.30"
+		}
+	}, {
+		"item": "1 Pair of Men Leather Business Shoes",
+		"cost": "102.71",
+		"range": {
+			"low": "71.70",
+			"high": "132.36"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) in City Centre",
+		"cost": "1,822.74",
+		"range": {
+			"low": "1,433.95",
+			"high": "2,206.07"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) Outside of Centre",
+		"cost": "1,495.62",
+		"range": {
+			"low": "1,103.04",
+			"high": "1,842.07"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) in City Centre",
+		"cost": "3,275.59",
+		"range": {
+			"low": "2,647.29",
+			"high": "4,301.84"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) Outside of Centre",
+		"cost": "2,491.20",
+		"range": {
+			"low": "1,985.47",
+			"high": "3,088.50"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment in City Centre",
+		"cost": "567.44",
+		"range": {
+			"low": "461.14",
+			"high": "717.32"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment Outside of Centre",
+		"cost": "404.23",
+		"range": {
+			"low": "307.42",
+			"high": "584.11"
+		}
+	}, {
+		"item": "Average Monthly Net Salary (After Tax)",
+		"cost": "2,813.54",
+		"range": {
+			"low": ""
+		}
+	}, {
+		"item": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+		"cost": "3.45",
+		"range": {
+			"low": "3.31",
+			"high": "4.63"
+		}
+	}],
+	"topSights": [{
+		"name": "Old Library & Book of Kells",
+		"location": "Grafton Street & St Stephen's Green",
+		"link": "https://lonelyplanet.com/ireland/dublin/attractions/old-library-book-of-kells/a/poi-sig/1213603/359796"
+	}, {
+		"name": "National Museum of Ireland – Decorative Arts & History",
+		"location": "North of the Liffey",
+		"link": "https://lonelyplanet.com/ireland/dublin/attractions/national-museum-of-ireland-decorative-arts-history/a/poi-sig/398793/359796"
+	}, {
+		"name": "Guinness Storehouse",
+		"location": "Kilmainham & the Liberties",
+		"link": "https://lonelyplanet.com/ireland/dublin/attractions/guinness-storehouse/a/poi-sig/398183/359796"
+	}, {
+		"name": "Trinity College",
+		"location": "Grafton Street & St Stephen's Green",
+		"link": "https://lonelyplanet.com/ireland/dublin/attractions/trinity-college/a/poi-sig/1213616/359796"
+	}, {
+		"name": "Hugh Lane Gallery, Dublin",
+		"location": "North of the Liffey",
+		"link": "https://lonelyplanet.com/ireland/dublin/attractions/hugh-lane-gallery-dublin/a/poi-sig/1213896/359796"
+	}, {
+		"name": "Chester Beatty Library",
+		"location": "Grafton Street & St Stephen's Green",
+		"link": "https://lonelyplanet.com/ireland/dublin/attractions/chester-beatty-library/a/poi-sig/398235/359796"
+	}, {
+		"name": "National Museum of Ireland – Archaeology",
+		"location": "Merrion Square & Georgian Dublin",
+		"link": "https://lonelyplanet.com/ireland/dublin/attractions/national-museum-of-ireland-archaeology/a/poi-sig/1097947/359796"
+	}, {
+		"name": "National Gallery",
+		"location": "Merrion Square & Georgian Dublin",
+		"link": "https://lonelyplanet.com/ireland/dublin/attractions/national-gallery/a/poi-sig/1213683/359796"
+	}],
+	"currency": "USD"
+}, {
+	"city": "Zurich",
+	"costs": [{
+		"item": "Meal, Inexpensive Restaurant",
+		"cost": "25.06",
+		"range": {
+			"low": "20.05",
+			"high": "30.07"
+		}
+	}, {
+		"item": "Meal for 2 People, Mid-range Restaurant, Three-course",
+		"cost": "100.24",
+		"range": {
+			"low": "80.20",
+			"high": "120.29"
+		}
+	}, {
+		"item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+		"cost": "14.03",
+		"range": {
+			"low": "12.03",
+			"high": "15.04"
+		}
+	}, {
+		"item": "Domestic Beer (1 pint draught)",
+		"cost": "6.27",
+		"range": {
+			"low": "5.01",
+			"high": "8.02"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "6.01",
+		"range": {
+			"low": "5.01",
+			"high": "7.02"
+		}
+	}, {
+		"item": "Cappuccino (regular)",
+		"cost": "5.00",
+		"range": {
+			"low": "4.01",
+			"high": "6.01"
+		}
+	}, {
+		"item": "Coke/Pepsi (12 oz small bottle)",
+		"cost": "4.12",
+		"range": {
+			"low": "3.01",
+			"high": "5.01"
+		}
+	}, {
+		"item": "Water (12 oz small bottle)",
+		"cost": "3.35",
+		"range": {
+			"low": "2.00",
+			"high": "5.01"
+		}
+	}, {
+		"item": "Milk (regular), (1 gallon)",
+		"cost": "6.43",
+		"range": {
+			"low": "5.69",
+			"high": "7.59"
+		}
+	}, {
+		"item": "Loaf of Fresh White Bread (1 lb)",
+		"cost": "2.60",
+		"range": {
+			"low": "1.82",
+			"high": "3.51"
+		}
+	}, {
+		"item": "Rice (white), (1 lb)",
+		"cost": "1.21",
+		"range": {
+			"low": "0.91",
+			"high": "1.82"
+		}
+	}, {
+		"item": "Eggs (regular) (12)",
+		"cost": "5.59",
+		"range": {
+			"low": "4.01",
+			"high": "8.02"
+		}
+	}, {
+		"item": "Local Cheese (1 lb)",
+		"cost": "12.39",
+		"range": {
+			"low": "9.09",
+			"high": "22.74"
+		}
+	}, {
+		"item": "Chicken Breasts (Boneless, Skinless), (1 lb)",
+		"cost": "12.60",
+		"range": {
+			"low": "9.09",
+			"high": "15.91"
+		}
+	}, {
+		"item": "Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+		"cost": "23.67",
+		"range": {
+			"low": "12.28",
+			"high": "34.56"
+		}
+	}, {
+		"item": "Apples (1 lb)",
+		"cost": "1.87",
+		"range": {
+			"low": "1.36",
+			"high": "2.27"
+		}
+	}, {
+		"item": "Banana (1 lb)",
+		"cost": "1.34",
+		"range": {
+			"low": "1.00",
+			"high": "1.82"
+		}
+	}, {
+		"item": "Oranges (1 lb)",
+		"cost": "1.92",
+		"range": {
+			"low": "0.91",
+			"high": "2.73"
+		}
+	}, {
+		"item": "Tomato (1 lb)",
+		"cost": "1.88",
+		"range": {
+			"low": "1.59",
+			"high": "2.27"
+		}
+	}, {
+		"item": "Potato (1 lb)",
+		"cost": "1.39",
+		"range": {
+			"low": "0.68",
+			"high": "1.82"
+		}
+	}, {
+		"item": "Onion (1 lb)",
+		"cost": "1.31",
+		"range": {
+			"low": "0.91",
+			"high": "1.82"
+		}
+	}, {
+		"item": "Lettuce (1 head)",
+		"cost": "2.71",
+		"range": {
+			"low": "2.00",
+			"high": "4.01"
+		}
+	}, {
+		"item": "Water (1.5 liter bottle)",
+		"cost": "1.22",
+		"range": {
+			"low": "0.30",
+			"high": "2.00"
+		}
+	}, {
+		"item": "Bottle of Wine (Mid-Range)",
+		"cost": "14.54",
+		"range": {
+			"low": "10.02",
+			"high": "20.05"
+		}
+	}, {
+		"item": "Domestic Beer (0.5 liter bottle)",
+		"cost": "1.96",
+		"range": {
+			"low": "1.50",
+			"high": "3.01"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "2.78",
+		"range": {
+			"low": "1.50",
+			"high": "4.01"
+		}
+	}, {
+		"item": "Cigarettes 20 Pack (Marlboro)",
+		"cost": "8.32",
+		"range": {
+			"low": "8.02",
+			"high": "9.02"
+		}
+	}, {
+		"item": "One-way Ticket (Local Transport)",
+		"cost": "4.21",
+		"range": {
+			"low": "3.01",
+			"high": "4.61"
+		}
+	}, {
+		"item": "Monthly Pass (Regular Price)",
+		"cost": "85.21",
+		"range": {
+			"low": "65.33",
+			"high": "95.23"
+		}
+	}, {
+		"item": "Taxi Start (Normal Tariff)",
+		"cost": "7.02",
+		"range": {
+			"low": "6.01",
+			"high": "8.02"
+		}
+	}, {
+		"item": "Taxi 1 mile (Normal Tariff)",
+		"cost": "6.45",
+		"range": {
+			"low": "5.16",
+			"high": "8.07"
+		}
+	}, {
+		"item": "Taxi 1hour Waiting (Normal Tariff)",
+		"cost": "80.00",
+		"range": {
+			"low": "60.15",
+			"high": "100.24"
+		}
+	}, {
+		"item": "Gasoline (1 gallon)",
+		"cost": "6.35",
+		"range": {
+			"low": "5.88",
+			"high": "6.83"
+		}
+	}, {
+		"item": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+		"cost": "24,058.68",
+		"range": {
+			"low": "20,048.90",
+			"high": "30,073.35"
+		}
+	}, {
+		"item": "Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)",
+		"cost": "23,718.58",
+		"range": {
+			"low": "18,044.01",
+			"high": "27,968.21"
+		}
+	}, {
+		"item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+		"cost": "196.21",
+		"range": {
+			"low": "95.23",
+			"high": "300.73"
+		}
+	}, {
+		"item": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+		"cost": "0.26",
+		"range": {
+			"low": "0.15",
+			"high": "0.50"
+		}
+	}, {
+		"item": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+		"cost": "54.92",
+		"range": {
+			"low": "40.10",
+			"high": "75.18"
+		}
+	}, {
+		"item": "Fitness Club, Monthly Fee for 1 Adult",
+		"cost": "81.71",
+		"range": {
+			"low": "54.13",
+			"high": "120.29"
+		}
+	}, {
+		"item": "Tennis Court Rent (1 Hour on Weekend)",
+		"cost": "34.71",
+		"range": {
+			"low": "25.06",
+			"high": "55.13"
+		}
+	}, {
+		"item": "Cinema, International Release, 1 Seat",
+		"cost": "18.04",
+		"range": {
+			"low": "17.04",
+			"high": "20.05"
+		}
+	}, {
+		"item": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+		"cost": "2,312.81",
+		"range": {
+			"low": "1,503.67",
+			"high": "2,806.85"
+		}
+	}, {
+		"item": "International Primary School, Yearly for 1 Child",
+		"cost": "30,772.43",
+		"range": {
+			"low": "20,048.90",
+			"high": "36,088.02"
+		}
+	}, {
+		"item": "1 Pair of Jeans (Levis 501 Or Similar)",
+		"cost": "115.07",
+		"range": {
+			"low": "60.15",
+			"high": "150.37"
+		}
+	}, {
+		"item": "1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+		"cost": "48.70",
+		"range": {
+			"low": "30.07",
+			"high": "70.17"
+		}
+	}, {
+		"item": "1 Pair of Nike Running Shoes (Mid-Range)",
+		"cost": "123.33",
+		"range": {
+			"low": "80.20",
+			"high": "160.39"
+		}
+	}, {
+		"item": "1 Pair of Men Leather Business Shoes",
+		"cost": "190.82",
+		"range": {
+			"low": "120.29",
+			"high": "280.68"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) in City Centre",
+		"cost": "1,821.62",
+		"range": {
+			"low": "1,303.18",
+			"high": "2,506.11"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) Outside of Centre",
+		"cost": "1,341.40",
+		"range": {
+			"low": "1,002.44",
+			"high": "1,804.40"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) in City Centre",
+		"cost": "3,387.56",
+		"range": {
+			"low": "2,506.11",
+			"high": "4,511.00"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) Outside of Centre",
+		"cost": "2,485.36",
+		"range": {
+			"low": "2,004.89",
+			"high": "3,007.33"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment in City Centre",
+		"cost": "1,165.14",
+		"range": {
+			"low": "670.53",
+			"high": "1,490.07"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment Outside of Centre",
+		"cost": "750.12",
+		"range": {
+			"low": "428.40",
+			"high": "1,210.68"
+		}
+	}, {
+		"item": "Average Monthly Net Salary (After Tax)",
+		"cost": "6,150.77",
+		"range": {
+			"low": ""
+		}
+	}, {
+		"item": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+		"cost": "1.68",
+		"range": {
+			"low": "1.20",
+			"high": "2.31"
+		}
+	}],
+	"topSights": [{
+		"name": "Fraumünster",
+		"location": "Zürich",
+		"link": "https://lonelyplanet.com/switzerland/zurich/attractions/fraumunster/a/poi-sig/405894/360831"
+	}, {
+		"name": "Kunsthaus",
+		"location": "Zürich",
+		"link": "https://lonelyplanet.com/switzerland/zurich/attractions/kunsthaus/a/poi-sig/405908/360831"
+	}, {
+		"name": "Schweizerisches Landesmuseum",
+		"location": "Zürich",
+		"link": "https://lonelyplanet.com/switzerland/zurich/attractions/schweizerisches-landesmuseum/a/poi-sig/405928/360831"
+	}, {
+		"name": "Zoo Zürich",
+		"location": "Zürich",
+		"link": "https://lonelyplanet.com/switzerland/zurich/attractions/zoo-zurich/a/poi-sig/1589711/360831"
+	}, {
+		"name": "Botanical Garden & Museum",
+		"location": "Zürich",
+		"link": "https://lonelyplanet.com/switzerland/zurich/attractions/botanical-garden-museum/a/poi-sig/1596757/360831"
+	}, {
+		"name": "Sukkulenten-Sammlung",
+		"location": "Zürich",
+		"link": "https://lonelyplanet.com/switzerland/zurich/attractions/sukkulenten-sammlung/a/poi-sig/1592723/360831"
+	}, {
+		"name": "Focus Terra",
+		"location": "Zürich",
+		"link": "https://lonelyplanet.com/switzerland/zurich/attractions/focus-terra/a/poi-sig/1592724/360831"
+	}, {
+		"name": "Grossmünster",
+		"location": "Zürich",
+		"link": "https://lonelyplanet.com/switzerland/zurich/attractions/grossmunster/a/poi-sig/405896/360831"
+	}],
+	"currency": "USD"
+}, {
+	"city": "Copenhagen",
+	"costs": [{
+		"item": "Meal, Inexpensive Restaurant",
+		"cost": "17.72",
+		"range": {
+			"low": "13.29",
+			"high": "22.15"
+		}
+	}, {
+		"item": "Meal for 2 People, Mid-range Restaurant, Three-course",
+		"cost": "88.59",
+		"range": {
+			"low": "66.44",
+			"high": "118.12"
+		}
+	}, {
+		"item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+		"cost": "11.03",
+		"range": {
+			"low": "9.60",
+			"high": "11.81"
+		}
+	}, {
+		"item": "Domestic Beer (1 pint draught)",
+		"cost": "7.01",
+		"range": {
+			"low": "5.91",
+			"high": "8.12"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "5.91",
+		"range": {
+			"low": "4.43",
+			"high": "8.86"
+		}
+	}, {
+		"item": "Cappuccino (regular)",
+		"cost": "5.79",
+		"range": {
+			"low": "5.00",
+			"high": "6.64"
+		}
+	}, {
+		"item": "Coke/Pepsi (12 oz small bottle)",
+		"cost": "3.23",
+		"range": {
+			"low": "1.77",
+			"high": "5.17"
+		}
+	}, {
+		"item": "Water (12 oz small bottle)",
+		"cost": "2.48",
+		"range": {
+			"low": "1.48",
+			"high": "3.69"
+		}
+	}, {
+		"item": "Milk (regular), (1 gallon)",
+		"cost": "4.96",
+		"range": {
+			"low": "4.47",
+			"high": "6.15"
+		}
+	}, {
+		"item": "Loaf of Fresh White Bread (1 lb)",
+		"cost": "2.74",
+		"range": {
+			"low": "1.34",
+			"high": "4.02"
+		}
+	}, {
+		"item": "Rice (white), (1 lb)",
+		"cost": "0.92",
+		"range": {
+			"low": "0.67",
+			"high": "1.14"
+		}
+	}, {
+		"item": "Eggs (regular) (12)",
+		"cost": "3.43",
+		"range": {
+			"low": "2.81",
+			"high": "4.43"
+		}
+	}, {
+		"item": "Local Cheese (1 lb)",
+		"cost": "5.32",
+		"range": {
+			"low": "3.88",
+			"high": "7.38"
+		}
+	}, {
+		"item": "Chicken Breasts (Boneless, Skinless), (1 lb)",
+		"cost": "4.35",
+		"range": {
+			"low": "3.35",
+			"high": "5.69"
+		}
+	}, {
+		"item": "Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+		"cost": "5.70",
+		"range": {
+			"low": "4.02",
+			"high": "8.04"
+		}
+	}, {
+		"item": "Apples (1 lb)",
+		"cost": "1.22",
+		"range": {
+			"low": "0.80",
+			"high": "1.61"
+		}
+	}, {
+		"item": "Banana (1 lb)",
+		"cost": "1.11",
+		"range": {
+			"low": "0.67",
+			"high": "1.34"
+		}
+	}, {
+		"item": "Oranges (1 lb)",
+		"cost": "1.30",
+		"range": {
+			"low": "1.00",
+			"high": "1.74"
+		}
+	}, {
+		"item": "Tomato (1 lb)",
+		"cost": "1.50",
+		"range": {
+			"low": "1.00",
+			"high": "2.01"
+		}
+	}, {
+		"item": "Potato (1 lb)",
+		"cost": "0.82",
+		"range": {
+			"low": "0.54",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Onion (1 lb)",
+		"cost": "0.65",
+		"range": {
+			"low": "0.40",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Lettuce (1 head)",
+		"cost": "1.58",
+		"range": {
+			"low": "1.48",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Water (1.5 liter bottle)",
+		"cost": "1.15",
+		"range": {
+			"low": "0.74",
+			"high": "2.36"
+		}
+	}, {
+		"item": "Bottle of Wine (Mid-Range)",
+		"cost": "8.86",
+		"range": {
+			"low": "7.38",
+			"high": "13.29"
+		}
+	}, {
+		"item": "Domestic Beer (0.5 liter bottle)",
+		"cost": "1.76",
+		"range": {
+			"low": "1.18",
+			"high": "2.36"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "2.43",
+		"range": {
+			"low": "1.77",
+			"high": "3.54"
+		}
+	}, {
+		"item": "Cigarettes 20 Pack (Marlboro)",
+		"cost": "6.64",
+		"range": {
+			"low": "6.20",
+			"high": "6.79"
+		}
+	}, {
+		"item": "One-way Ticket (Local Transport)",
+		"cost": "3.54",
+		"range": {
+			"low": "2.66",
+			"high": "3.62"
+		}
+	}, {
+		"item": "Monthly Pass (Regular Price)",
+		"cost": "59.06",
+		"range": {
+			"low": "57.58",
+			"high": "88.59"
+		}
+	}, {
+		"item": "Taxi Start (Normal Tariff)",
+		"cost": "7.09",
+		"range": {
+			"low": "5.91",
+			"high": "10.34"
+		}
+	}, {
+		"item": "Taxi 1 mile (Normal Tariff)",
+		"cost": "3.55",
+		"range": {
+			"low": "2.38",
+			"high": "4.75"
+		}
+	}, {
+		"item": "Taxi 1hour Waiting (Normal Tariff)",
+		"cost": "59.27",
+		"range": {
+			"low": "36.91",
+			"high": "66.44"
+		}
+	}, {
+		"item": "Gasoline (1 gallon)",
+		"cost": "6.25",
+		"range": {
+			"low": "5.59",
+			"high": "6.71"
+		}
+	}, {
+		"item": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+		"cost": "36,912.15",
+		"range": {
+			"low": "29,529.72",
+			"high": "41,341.61"
+		}
+	}, {
+		"item": "Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)",
+		"cost": "35,467.23",
+		"range": {
+			"low": "29,529.72",
+			"high": "44,294.58"
+		}
+	}, {
+		"item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+		"cost": "228.43",
+		"range": {
+			"low": "135.54",
+			"high": "295.30"
+		}
+	}, {
+		"item": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+		"cost": "0.13",
+		"range": {
+			"low": "0.05",
+			"high": "0.15"
+		}
+	}, {
+		"item": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+		"cost": "37.54",
+		"range": {
+			"low": "22.15",
+			"high": "44.29"
+		}
+	}, {
+		"item": "Fitness Club, Monthly Fee for 1 Adult",
+		"cost": "41.29",
+		"range": {
+			"low": "29.53",
+			"high": "51.68"
+		}
+	}, {
+		"item": "Tennis Court Rent (1 Hour on Weekend)",
+		"cost": "32.93",
+		"range": {
+			"low": "14.76",
+			"high": "66.44"
+		}
+	}, {
+		"item": "Cinema, International Release, 1 Seat",
+		"cost": "16.24",
+		"range": {
+			"low": "14.03",
+			"high": "17.72"
+		}
+	}, {
+		"item": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+		"cost": "454.74",
+		"range": {
+			"low": "295.30",
+			"high": "546.30"
+		}
+	}, {
+		"item": "International Primary School, Yearly for 1 Child",
+		"cost": "8,330.43",
+		"range": {
+			"low": "4,429.46",
+			"high": "17,717.83"
+		}
+	}, {
+		"item": "1 Pair of Jeans (Levis 501 Or Similar)",
+		"cost": "115.03",
+		"range": {
+			"low": "73.82",
+			"high": "132.88"
+		}
+	}, {
+		"item": "1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+		"cost": "43.86",
+		"range": {
+			"low": "29.38",
+			"high": "59.06"
+		}
+	}, {
+		"item": "1 Pair of Nike Running Shoes (Mid-Range)",
+		"cost": "114.20",
+		"range": {
+			"low": "87.11",
+			"high": "147.65"
+		}
+	}, {
+		"item": "1 Pair of Men Leather Business Shoes",
+		"cost": "156.43",
+		"range": {
+			"low": "103.35",
+			"high": "221.47"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) in City Centre",
+		"cost": "1,297.53",
+		"range": {
+			"low": "856.36",
+			"high": "2,067.08"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) Outside of Centre",
+		"cost": "979.44",
+		"range": {
+			"low": "590.59",
+			"high": "1,624.13"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) in City Centre",
+		"cost": "2,457.25",
+		"range": {
+			"low": "1,771.78",
+			"high": "2,952.97"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) Outside of Centre",
+		"cost": "1,774.79",
+		"range": {
+			"low": "1,328.84",
+			"high": "2,214.73"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment in City Centre",
+		"cost": "643.95",
+		"range": {
+			"low": "507.52",
+			"high": "781.86"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment Outside of Centre",
+		"cost": "441.81",
+		"range": {
+			"low": "342.92",
+			"high": "521.24"
+		}
+	}, {
+		"item": "Average Monthly Net Salary (After Tax)",
+		"cost": "3,112.37",
+		"range": {
+			"low": ""
+		}
+	}, {
+		"item": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+		"cost": "1.67",
+		"range": {
+			"low": "0.15",
+			"high": "0.44"
+		}
+	}],
+	"topSights": [{
+		"name": "Tivoli Gardens",
+		"location": "Rådhuspladsen & Tivoli",
+		"link": "https://lonelyplanet.com/denmark/copenhagen/attractions/tivoli-gardens/a/poi-sig/1289450/358838"
+	}, {
+		"name": "Christiania",
+		"location": "Christianshavn",
+		"link": "https://lonelyplanet.com/denmark/copenhagen/attractions/christiania/a/poi-sig/408900/358838"
+	}, {
+		"name": "Rosenborg Slot",
+		"location": "Nørreport",
+		"link": "https://lonelyplanet.com/denmark/copenhagen/attractions/rosenborg-slot/a/poi-sig/408432/358838"
+	}, {
+		"name": "Statens Museum for Kunst",
+		"location": "Nørreport",
+		"link": "https://lonelyplanet.com/denmark/copenhagen/attractions/statens-museum-for-kunst/a/poi-sig/408460/358838"
+	}, {
+		"name": "Nyhavn",
+		"location": "Nyhavn & the Royal Quarter",
+		"link": "https://lonelyplanet.com/denmark/copenhagen/attractions/nyhavn/a/poi-sig/408944/358838"
+	}, {
+		"name": "Christiansborg Slot",
+		"location": "Slotsholmen",
+		"link": "https://lonelyplanet.com/denmark/copenhagen/attractions/christiansborg-slot/a/poi-sig/1297378/358838"
+	}, {
+		"name": "Nationalmuseet",
+		"location": "Rådhuspladsen & Tivoli",
+		"link": "https://lonelyplanet.com/denmark/copenhagen/attractions/nationalmuseet/a/poi-sig/408430/358838"
+	}, {
+		"name": "Frederiksberg Have",
+		"location": "Vesterbro & Frederiksberg",
+		"link": "https://lonelyplanet.com/denmark/copenhagen/attractions/frederiksberg-have/a/poi-sig/408870/358838"
+	}],
+	"currency": "USD"
+}, {
+	"city": "Vienna",
+	"costs": [{
+		"item": "Meal, Inexpensive Restaurant",
+		"cost": "11.03",
+		"range": {
+			"low": "8.82",
+			"high": "15.44"
+		}
+	}, {
+		"item": "Meal for 2 People, Mid-range Restaurant, Three-course",
+		"cost": "49.64",
+		"range": {
+			"low": "33.09",
+			"high": "66.18"
+		}
+	}, {
+		"item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+		"cost": "7.72",
+		"range": {
+			"low": "6.62",
+			"high": "8.82"
+		}
+	}, {
+		"item": "Domestic Beer (1 pint draught)",
+		"cost": "4.41",
+		"range": {
+			"low": "3.86",
+			"high": "4.96"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "4.41",
+		"range": {
+			"low": "3.31",
+			"high": "4.96"
+		}
+	}, {
+		"item": "Cappuccino (regular)",
+		"cost": "3.54",
+		"range": {
+			"low": "2.76",
+			"high": "4.41"
+		}
+	}, {
+		"item": "Coke/Pepsi (12 oz small bottle)",
+		"cost": "3.20",
+		"range": {
+			"low": "2.21",
+			"high": "3.86"
+		}
+	}, {
+		"item": "Water (12 oz small bottle)",
+		"cost": "2.39",
+		"range": {
+			"low": "1.10",
+			"high": "3.31"
+		}
+	}, {
+		"item": "Milk (regular), (1 gallon)",
+		"cost": "4.32",
+		"range": {
+			"low": "3.76",
+			"high": "5.01"
+		}
+	}, {
+		"item": "Loaf of Fresh White Bread (1 lb)",
+		"cost": "1.72",
+		"range": {
+			"low": "1.00",
+			"high": "2.50"
+		}
+	}, {
+		"item": "Rice (white), (1 lb)",
+		"cost": "0.64",
+		"range": {
+			"low": "0.43",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Eggs (regular) (12)",
+		"cost": "3.03",
+		"range": {
+			"low": "2.21",
+			"high": "4.40"
+		}
+	}, {
+		"item": "Local Cheese (1 lb)",
+		"cost": "5.72",
+		"range": {
+			"low": "3.37",
+			"high": "10.01"
+		}
+	}, {
+		"item": "Chicken Breasts (Boneless, Skinless), (1 lb)",
+		"cost": "4.74",
+		"range": {
+			"low": "2.50",
+			"high": "6.50"
+		}
+	}, {
+		"item": "Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+		"cost": "7.52",
+		"range": {
+			"low": "4.00",
+			"high": "12.51"
+		}
+	}, {
+		"item": "Apples (1 lb)",
+		"cost": "1.02",
+		"range": {
+			"low": "0.75",
+			"high": "1.25"
+		}
+	}, {
+		"item": "Banana (1 lb)",
+		"cost": "0.81",
+		"range": {
+			"low": "0.65",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Oranges (1 lb)",
+		"cost": "1.02",
+		"range": {
+			"low": "0.75",
+			"high": "1.35"
+		}
+	}, {
+		"item": "Tomato (1 lb)",
+		"cost": "1.07",
+		"range": {
+			"low": "0.75",
+			"high": "1.75"
+		}
+	}, {
+		"item": "Potato (1 lb)",
+		"cost": "0.68",
+		"range": {
+			"low": "0.50",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Onion (1 lb)",
+		"cost": "0.69",
+		"range": {
+			"low": "0.50",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Lettuce (1 head)",
+		"cost": "1.24",
+		"range": {
+			"low": "0.94",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Water (1.5 liter bottle)",
+		"cost": "0.66",
+		"range": {
+			"low": "0.32",
+			"high": "1.05"
+		}
+	}, {
+		"item": "Bottle of Wine (Mid-Range)",
+		"cost": "7.44",
+		"range": {
+			"low": "4.41",
+			"high": "8.82"
+		}
+	}, {
+		"item": "Domestic Beer (0.5 liter bottle)",
+		"cost": "1.05",
+		"range": {
+			"low": "0.94",
+			"high": "1.10"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "1.80",
+		"range": {
+			"low": "1.10",
+			"high": "2.76"
+		}
+	}, {
+		"item": "Cigarettes 20 Pack (Marlboro)",
+		"cost": "6.07",
+		"range": {
+			"low": "5.52",
+			"high": "6.07"
+		}
+	}, {
+		"item": "One-way Ticket (Local Transport)",
+		"cost": "2.65",
+		"range": {
+			"low": "2.65",
+			"high": "2.65"
+		}
+	}, {
+		"item": "Monthly Pass (Regular Price)",
+		"cost": "51.84",
+		"range": {
+			"low": "33.55",
+			"high": "56.25"
+		}
+	}, {
+		"item": "Taxi Start (Normal Tariff)",
+		"cost": "4.22",
+		"range": {
+			"low": "3.31",
+			"high": "5.52"
+		}
+	}, {
+		"item": "Taxi 1 mile (Normal Tariff)",
+		"cost": "2.52",
+		"range": {
+			"low": "1.86",
+			"high": "3.55"
+		}
+	}, {
+		"item": "Taxi 1hour Waiting (Normal Tariff)",
+		"cost": "30.66",
+		"range": {
+			"low": "30.44",
+			"high": "30.66"
+		}
+	}, {
+		"item": "Gasoline (1 gallon)",
+		"cost": "5.20",
+		"range": {
+			"low": "5.01",
+			"high": "5.43"
+		}
+	}, {
+		"item": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+		"cost": "24,206.14",
+		"range": {
+			"low": "22,060.74",
+			"high": "27,575.92"
+		}
+	}, {
+		"item": "Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)",
+		"cost": "23,333.09",
+		"range": {
+			"low": "18,751.63",
+			"high": "30,885.03"
+		}
+	}, {
+		"item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+		"cost": "165.20",
+		"range": {
+			"low": "102.28",
+			"high": "281.27"
+		}
+	}, {
+		"item": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+		"cost": "0.05",
+		"range": {
+			"low": "0.03",
+			"high": "0.08"
+		}
+	}, {
+		"item": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+		"cost": "34.49",
+		"range": {
+			"low": "23.16",
+			"high": "44.12"
+		}
+	}, {
+		"item": "Fitness Club, Monthly Fee for 1 Adult",
+		"cost": "28.10",
+		"range": {
+			"low": "22.06",
+			"high": "66.18"
+		}
+	}, {
+		"item": "Tennis Court Rent (1 Hour on Weekend)",
+		"cost": "19.85",
+		"range": {
+			"low": "13.24",
+			"high": "33.09"
+		}
+	}, {
+		"item": "Cinema, International Release, 1 Seat",
+		"cost": "11.03",
+		"range": {
+			"low": "8.82",
+			"high": "13.24"
+		}
+	}, {
+		"item": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+		"cost": "229.06",
+		"range": {
+			"low": "132.36",
+			"high": "393.78"
+		}
+	}, {
+		"item": "International Primary School, Yearly for 1 Child",
+		"cost": "16,900.10",
+		"range": {
+			"low": "5,691.67",
+			"high": "22,060.74"
+		}
+	}, {
+		"item": "1 Pair of Jeans (Levis 501 Or Similar)",
+		"cost": "83.78",
+		"range": {
+			"low": "55.15",
+			"high": "110.30"
+		}
+	}, {
+		"item": "1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+		"cost": "37.27",
+		"range": {
+			"low": "22.06",
+			"high": "55.15"
+		}
+	}, {
+		"item": "1 Pair of Nike Running Shoes (Mid-Range)",
+		"cost": "87.53",
+		"range": {
+			"low": "60.67",
+			"high": "110.30"
+		}
+	}, {
+		"item": "1 Pair of Men Leather Business Shoes",
+		"cost": "127.55",
+		"range": {
+			"low": "77.21",
+			"high": "198.55"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) in City Centre",
+		"cost": "930.57",
+		"range": {
+			"low": "661.82",
+			"high": "1,103.04"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) Outside of Centre",
+		"cost": "684.40",
+		"range": {
+			"low": "496.37",
+			"high": "882.43"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) in City Centre",
+		"cost": "1,747.07",
+		"range": {
+			"low": "1,213.34",
+			"high": "2,536.98"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) Outside of Centre",
+		"cost": "1,225.78",
+		"range": {
+			"low": "937.58",
+			"high": "1,875.16"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment in City Centre",
+		"cost": "656.57",
+		"range": {
+			"low": "461.14",
+			"high": "1,024.75"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment Outside of Centre",
+		"cost": "408.37",
+		"range": {
+			"low": "307.42",
+			"high": "512.37"
+		}
+	}, {
+		"item": "Average Monthly Net Salary (After Tax)",
+		"cost": "2,038.93",
+		"range": {
+			"low": ""
+		}
+	}, {
+		"item": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+		"cost": "2.17",
+		"range": {
+			"low": "2.21",
+			"high": "3.31"
+		}
+	}],
+	"topSights": [{
+		"name": "Staatsoper",
+		"location": "Karlsplatz & Around Naschmarkt",
+		"link": "https://lonelyplanet.com/austria/vienna/attractions/staatsoper/a/poi-sig/1414700/358656"
+	}, {
+		"name": "Stephansdom",
+		"location": "Stephansdom & the Historic Centre",
+		"link": "https://lonelyplanet.com/austria/vienna/attractions/stephansdom/a/poi-sig/403852/358656"
+	}, {
+		"name": "MuseumsQuartier",
+		"location": "The Museum District & Neubau",
+		"link": "https://lonelyplanet.com/austria/vienna/attractions/museumsquartier/a/poi-sig/1073384/358656"
+	}, {
+		"name": "Kaiserliche Schatzkammer",
+		"location": "The Hofburg & Around",
+		"link": "https://lonelyplanet.com/austria/vienna/attractions/kaiserliche-schatzkammer/a/poi-sig/404536/358656"
+	}, {
+		"name": "Schloss Belvedere",
+		"location": "Schloss Belvedere to the Canal",
+		"link": "https://lonelyplanet.com/austria/vienna/attractions/schloss-belvedere/a/poi-sig/1111671/358656"
+	}, {
+		"name": "Hofburg",
+		"location": "The Hofburg & Around",
+		"link": "https://lonelyplanet.com/austria/vienna/attractions/hofburg/a/poi-sig/1111646/358656"
+	}, {
+		"name": "Schloss Schönbrunn",
+		"location": "Schloss Schönbrunn & Around",
+		"link": "https://lonelyplanet.com/austria/vienna/attractions/schloss-schonbrunn/a/poi-sig/1279627/358656"
+	}, {
+		"name": "Kunsthistorisches Museum Vienna",
+		"location": "The Museum District & Neubau",
+		"link": "https://lonelyplanet.com/austria/vienna/attractions/kunsthistorisches-museum-vienna/a/poi-sig/1073381/358656"
+	}],
+	"currency": "USD"
+}, {
+	"city": "Berlin",
+	"costs": [{
+		"item": "Meal, Inexpensive Restaurant",
+		"cost": "8.82",
+		"range": {
+			"low": "7.72",
+			"high": "12.13"
+		}
+	}, {
+		"item": "Meal for 2 People, Mid-range Restaurant, Three-course",
+		"cost": "44.12",
+		"range": {
+			"low": "33.09",
+			"high": "55.15"
+		}
+	}, {
+		"item": "McMeal at McDonalds (or Equivalent Combo Meal)",
+		"cost": "7.72",
+		"range": {
+			"low": "6.62",
+			"high": "8.82"
+		}
+	}, {
+		"item": "Domestic Beer (1 pint draught)",
+		"cost": "3.86",
+		"range": {
+			"low": "3.31",
+			"high": "4.41"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "3.86",
+		"range": {
+			"low": "2.76",
+			"high": "4.41"
+		}
+	}, {
+		"item": "Cappuccino (regular)",
+		"cost": "2.98",
+		"range": {
+			"low": "2.43",
+			"high": "3.31"
+		}
+	}, {
+		"item": "Coke/Pepsi (12 oz small bottle)",
+		"cost": "2.24",
+		"range": {
+			"low": "1.38",
+			"high": "3.20"
+		}
+	}, {
+		"item": "Water (12 oz small bottle)",
+		"cost": "1.89",
+		"range": {
+			"low": "1.10",
+			"high": "2.76"
+		}
+	}, {
+		"item": "Milk (regular), (1 gallon)",
+		"cost": "3.25",
+		"range": {
+			"low": "2.59",
+			"high": "4.18"
+		}
+	}, {
+		"item": "Loaf of Fresh White Bread (1 lb)",
+		"cost": "1.29",
+		"range": {
+			"low": "0.89",
+			"high": "2.00"
+		}
+	}, {
+		"item": "Rice (white), (1 lb)",
+		"cost": "0.87",
+		"range": {
+			"low": "0.45",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Eggs (regular) (12)",
+		"cost": "2.16",
+		"range": {
+			"low": "1.43",
+			"high": "3.11"
+		}
+	}, {
+		"item": "Local Cheese (1 lb)",
+		"cost": "4.33",
+		"range": {
+			"low": "2.50",
+			"high": "9.51"
+		}
+	}, {
+		"item": "Chicken Breasts (Boneless, Skinless), (1 lb)",
+		"cost": "3.66",
+		"range": {
+			"low": "2.50",
+			"high": "5.00"
+		}
+	}, {
+		"item": "Beef Round (1 lb) (or Equivalent Back Leg Red Meat)",
+		"cost": "5.73",
+		"range": {
+			"low": "4.00",
+			"high": "10.01"
+		}
+	}, {
+		"item": "Apples (1 lb)",
+		"cost": "1.07",
+		"range": {
+			"low": "0.75",
+			"high": "1.45"
+		}
+	}, {
+		"item": "Banana (1 lb)",
+		"cost": "0.72",
+		"range": {
+			"low": "0.50",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Oranges (1 lb)",
+		"cost": "1.09",
+		"range": {
+			"low": "0.67",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Tomato (1 lb)",
+		"cost": "1.15",
+		"range": {
+			"low": "0.95",
+			"high": "1.50"
+		}
+	}, {
+		"item": "Potato (1 lb)",
+		"cost": "0.67",
+		"range": {
+			"low": "0.45",
+			"high": "1.25"
+		}
+	}, {
+		"item": "Onion (1 lb)",
+		"cost": "0.70",
+		"range": {
+			"low": "0.50",
+			"high": "1.00"
+		}
+	}, {
+		"item": "Lettuce (1 head)",
+		"cost": "1.15",
+		"range": {
+			"low": "0.77",
+			"high": "1.88"
+		}
+	}, {
+		"item": "Water (1.5 liter bottle)",
+		"cost": "0.57",
+		"range": {
+			"low": "0.21",
+			"high": "1.10"
+		}
+	}, {
+		"item": "Bottle of Wine (Mid-Range)",
+		"cost": "5.52",
+		"range": {
+			"low": "4.41",
+			"high": "7.72"
+		}
+	}, {
+		"item": "Domestic Beer (0.5 liter bottle)",
+		"cost": "0.94",
+		"range": {
+			"low": "0.65",
+			"high": "1.31"
+		}
+	}, {
+		"item": "Imported Beer (12 oz small bottle)",
+		"cost": "1.40",
+		"range": {
+			"low": "1.01",
+			"high": "2.21"
+		}
+	}, {
+		"item": "Cigarettes 20 Pack (Marlboro)",
+		"cost": "7.06",
+		"range": {
+			"low": "6.62",
+			"high": "7.50"
+		}
+	}, {
+		"item": "One-way Ticket (Local Transport)",
+		"cost": "3.09",
+		"range": {
+			"low": "2.65",
+			"high": "3.09"
+		}
+	}, {
+		"item": "Monthly Pass (Regular Price)",
+		"cost": "89.35",
+		"range": {
+			"low": "88.24",
+			"high": "89.35"
+		}
+	}, {
+		"item": "Taxi Start (Normal Tariff)",
+		"cost": "4.30",
+		"range": {
+			"low": "3.31",
+			"high": "4.96"
+		}
+	}, {
+		"item": "Taxi 1 mile (Normal Tariff)",
+		"cost": "3.55",
+		"range": {
+			"low": "3.55",
+			"high": "5.33"
+		}
+	}, {
+		"item": "Taxi 1hour Waiting (Normal Tariff)",
+		"cost": "33.09",
+		"range": {
+			"low": "33.09",
+			"high": "66.18"
+		}
+	}, {
+		"item": "Gasoline (1 gallon)",
+		"cost": "6.04",
+		"range": {
+			"low": "5.60",
+			"high": "6.26"
+		}
+	}, {
+		"item": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+		"cost": "21,531.28",
+		"range": {
+			"low": "17,769.92",
+			"high": "27,575.92"
+		}
+	}, {
+		"item": "Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)",
+		"cost": "22,126.92",
+		"range": {
+			"low": "16,777.19",
+			"high": "27,575.92"
+		}
+	}, {
+		"item": "Basic (Electricity, Heating, Cooling, Water, Garbage) for 915 sq ft Apartment",
+		"cost": "265.94",
+		"range": {
+			"low": "170.47",
+			"high": "364.61"
+		}
+	}, {
+		"item": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+		"cost": "0.11",
+		"range": {
+			"low": "0.10",
+			"high": "0.17"
+		}
+	}, {
+		"item": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+		"cost": "33.87",
+		"range": {
+			"low": "22.06",
+			"high": "44.12"
+		}
+	}, {
+		"item": "Fitness Club, Monthly Fee for 1 Adult",
+		"cost": "31.11",
+		"range": {
+			"low": "22.06",
+			"high": "55.15"
+		}
+	}, {
+		"item": "Tennis Court Rent (1 Hour on Weekend)",
+		"cost": "20.83",
+		"range": {
+			"low": "13.24",
+			"high": "27.58"
+		}
+	}, {
+		"item": "Cinema, International Release, 1 Seat",
+		"cost": "11.03",
+		"range": {
+			"low": "9.93",
+			"high": "15.44"
+		}
+	}, {
+		"item": "Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child",
+		"cost": "207.80",
+		"range": {
+			"low": "55.15",
+			"high": "330.91"
+		}
+	}, {
+		"item": "International Primary School, Yearly for 1 Child",
+		"cost": "7,929.78",
+		"range": {
+			"low": "3,309.11",
+			"high": "13,792.37"
+		}
+	}, {
+		"item": "1 Pair of Jeans (Levis 501 Or Similar)",
+		"cost": "87.51",
+		"range": {
+			"low": "55.15",
+			"high": "110.30"
+		}
+	}, {
+		"item": "1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+		"cost": "34.36",
+		"range": {
+			"low": "22.06",
+			"high": "55.15"
+		}
+	}, {
+		"item": "1 Pair of Nike Running Shoes (Mid-Range)",
+		"cost": "90.34",
+		"range": {
+			"low": "66.18",
+			"high": "126.85"
+		}
+	}, {
+		"item": "1 Pair of Men Leather Business Shoes",
+		"cost": "113.64",
+		"range": {
+			"low": "77.21",
+			"high": "165.46"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) in City Centre",
+		"cost": "967.20",
+		"range": {
+			"low": "661.82",
+			"high": "1,323.64"
+		}
+	}, {
+		"item": "Apartment (1 bedroom) Outside of Centre",
+		"cost": "712.45",
+		"range": {
+			"low": "496.37",
+			"high": "882.43"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) in City Centre",
+		"cost": "1,865.49",
+		"range": {
+			"low": "1,323.64",
+			"high": "2,316.38"
+		}
+	}, {
+		"item": "Apartment (3 bedrooms) Outside of Centre",
+		"cost": "1,309.02",
+		"range": {
+			"low": "992.73",
+			"high": "1,654.56"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment in City Centre",
+		"cost": "620.94",
+		"range": {
+			"low": "461.14",
+			"high": "819.80"
+		}
+	}, {
+		"item": "Price per Square Feet to Buy Apartment Outside of Centre",
+		"cost": "399.78",
+		"range": {
+			"low": "358.66",
+			"high": "491.88"
+		}
+	}, {
+		"item": "Average Monthly Net Salary (After Tax)",
+		"cost": "2,458.88",
+		"range": {
+			"low": ""
+		}
+	}, {
+		"item": "Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate",
+		"cost": "1.87",
+		"range": {
+			"low": "1.54",
+			"high": "2.43"
+		}
+	}],
+	"topSights": [{
+		"name": "Pergamonmuseum",
+		"location": "Museumsinsel & Alexanderplatz",
+		"link": "https://lonelyplanet.com/germany/berlin/attractions/pergamonmuseum/a/poi-sig/1118820/359364"
+	}, {
+		"name": "Neues Museum",
+		"location": "Museumsinsel & Alexanderplatz",
+		"link": "https://lonelyplanet.com/germany/berlin/attractions/neues-museum/a/poi-sig/1103956/359364"
+	}, {
+		"name": "Museumsinsel",
+		"location": "Museumsinsel & Alexanderplatz",
+		"link": "https://lonelyplanet.com/germany/berlin/attractions/museumsinsel/a/poi-sig/1212462/359364"
+	}, {
+		"name": "Schloss Charlottenburg",
+		"location": "City West & Charlottenburg",
+		"link": "https://lonelyplanet.com/germany/berlin/attractions/schloss-charlottenburg/a/poi-sig/1119921/359364"
+	}, {
+		"name": "Sammlung Boros",
+		"location": "Scheunenviertel",
+		"link": "https://lonelyplanet.com/germany/berlin/attractions/sammlung-boros/a/poi-sig/1103772/359364"
+	}, {
+		"name": "Gemäldegalerie",
+		"location": "Potsdamer Platz & Tiergarten",
+		"link": "https://lonelyplanet.com/germany/berlin/attractions/gemaldegalerie/a/poi-sig/372813/359364"
+	}, {
+		"name": "Museum für Naturkunde",
+		"location": "Scheunenviertel",
+		"link": "https://lonelyplanet.com/germany/berlin/attractions/museum-fur-naturkunde/a/poi-sig/372983/359364"
+	}, {
+		"name": "Reichstag",
+		"location": "Historic Mitte",
+		"link": "https://lonelyplanet.com/germany/berlin/attractions/reichstag/a/poi-sig/1204418/359364"
+	}],
+	"currency": "USD"
+}]
